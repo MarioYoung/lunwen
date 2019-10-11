@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliographies>
+<BibliographiesCount>47</BibliographiesCount>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[拓展中小学学生卡三大使用功能]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[张丽萍;]]></FullName>
+<Organization><![CDATA[北京市政协;北京市东城区板厂小学;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[北京观察]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[07]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[中小学;功能;校园;学校;明确;小额支付;]]></Keyword>
+<Keyword  Lang="en"><![CDATA[]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[<正>问题、分析与建议北京市中小学学生(IC)卡(简称学生卡)是由北京市教委发行的,普通中小学学生统一使用的电子身份证件,目前仅具有证件卡、学籍卡的功能。借鉴大学校园里已实施的校园一卡通经验,结合中小学生的特点,我建议在学生卡目前基础功能上拓展以下三个附加功能,让这张卡发挥更大的作用。一、学校安全责任保险卡2007年5月24日,国家颁布了《中共中央国务院关于加强青少年体育增强青少年体质的意见》。这是国家根据目前不同地区、不同学校因财力不同而导致学校安全责任险落实不平衡的情况而制定的。《意见》的第12条明确提出:所有的学校都要建立校园意外伤害事件的应急管理机制。建立和完善青少年意外伤]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[40]]></PageScope>
+<Publisher><![CDATA[北京观察]]></Publisher>
+<Code><![CDATA[1008-1208]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[基于市场导向的研发产品规划的应用]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[段世彦;王卫安;何政军;]]></FullName>
+<Organization><![CDATA[南车株洲电力机车研究所有限公司;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[企业科技与发展]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[23]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[产品规划;市场导向;细分市场;产品组合;大功率变频器]]></Keyword>
+<Keyword  Lang="en"><![CDATA[product planning;;market guide;;market segment;;product portfolio;;high voltage converter]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[文章以南车株洲电力机车研究所有限公司的众多研发产品之中的大功率变频器作为研究对象,针对该产品规划过程进行研究,并结合企业内部和外部市场的宏观环境,对该类产品规划策略进行实际操作,说明产品规划策略在产品开发与经营中的重要意义。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[51-53+56]]></PageScope>
+<Publisher><![CDATA[企业科技与发展]]></Publisher>
+<Code><![CDATA[1674-0688]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[浅谈智能化产品设计的过程与趋势]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[郝风富;]]></FullName>
+<Organization><![CDATA[吉林动画学院;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[科技与企业]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[11]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[智能化;产品设计;人工智能(AI)]]></Keyword>
+<Keyword  Lang="en"><![CDATA[]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[随着用户对产品的个性化和多样化的要求,产品创新的空间空前扩大,对创新程度的要求也越来越高,传统的产品设计方法逐渐被市场淘汰,智能化产品设计方法应运而生。本文首先介绍了智能化产品设计产生的背景,然后以自动取款机为例介绍了智能化产品设计的过程,最后对智能化产品技术发展趋势进行了展望。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[152]]></PageScope>
+<Publisher><![CDATA[科技与企业]]></Publisher>
+<Code><![CDATA[1004-9207]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[面向产品规划的顾客需求获取与转换]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[曾富洪;周兰花;郭钢;]]></FullName>
+<Organization><![CDATA[攀枝花学院先进制造技术研究所;重庆大学;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代制造工程]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[10]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[质量屋;层次分析法;优化技术]]></Keyword>
+<Keyword  Lang="en"><![CDATA[house of quality;Analytical Hierarchy Process(AHP);optimizing technology]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[为了准确获取顾客需求并将其转化为确切的产品技术要求,提出一种将调研数据、市场竞争环境和调研顾客的属性相结合的系统求解方式,在该求解方式中,采用改进的层次分析法(AHP)求取各顾客属性项权重,用焓方法求取各顾客需求项竞争性评估参数,进而将其与调研数据相结合得到待开发产品的顾客需求重要度和相关产品的顾客需求满意度,并将这些数据作为基础信息输入质量屋。在进行顾客需求转换的时候,以质量屋的信息为基础,充分利用开发团队的经验和竞争对手的信息确定待开发产品的顾客目标满意度,并以此建立目标规划模型,求取出技术要求目标值。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[30-34]]></PageScope>
+<Publisher><![CDATA[现代制造工程]]></Publisher>
+<Code><![CDATA[1671-3133]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[电信产品的规划管理]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[韩小亦;]]></FullName>
+<Organization><![CDATA[中国移动通信集团北京有限公司;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[电信技术]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[10]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[电信产品;客户需求;生命周期;产品规划;规划管理;产品库;]]></Keyword>
+<Keyword  Lang="en"><![CDATA[]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[<正>1概述电信产品的规划管理是指在对客户需求、竞争对手和市场状况充分了解的基础上,以制定好的经营战略方针为指导,为已有产品和新产品在将来某一段时间内的工作制定出符合实际的工作计划和实施方案的过程。电信产品规]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[51-53]]></PageScope>
+<Publisher><![CDATA[电信技术]]></Publisher>
+<Code><![CDATA[1000-1247]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[LTE无线网络产品规划浅谈]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[邓伟;龙紫薇;许灵军;杨光;]]></FullName>
+<Organization><![CDATA[中国移动通信研究院;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[电信科学]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[01]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[LTE;移动互联网;TD-SCDMA;多网互操作;数据卡]]></Keyword>
+<Keyword  Lang="en"><![CDATA[LTE, mobile internet, TD-SCDMA, inter-RAT cooperation, data card]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[本文从下一代无线通信技术LTE商用网络的愿景出发,分析了LTE无线网络产品规划应当解决的问题。首先,分别从产品硬件和基本功能设计阐述了LTE无线网络产品规划的主要问题以及初期的基本考虑。然后,分析了LTE无线网络产品规划的其他问题,并给出了后续工作的建议。摘要]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[38-42]]></PageScope>
+<Publisher><![CDATA[电信科学]]></Publisher>
+<Code><![CDATA[1000-0801]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[电子类产品规划和产品设计]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[]]></FullName>
+<Organization><![CDATA[怡美工业设计公司;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[信息与电脑]]></Media></Medium>
+<Year><![CDATA[2009]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[07]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[产品规划;利润;财政管理;产品定位;电子类产品;销量;产品阵容;]]></Keyword>
+<Keyword  Lang="en"><![CDATA[]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[<正>对于消费者而言,产品规划如同指挥一个交响乐团,让林林总总的产品阵容象各种乐器一样绝妙组合又各司其职,演奏出让消费者心动的乐章。对于竞争对手而言,产品规划就有如排兵布阵,让各系列产品如各路兵马般攻守相备,招招致敌。产品规划的内容包括产品各类别结构规划、产品系列化规划、产品定位规划、产品生命周期规划等。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[45-46]]></PageScope>
+<Publisher><![CDATA[信息与电脑]]></Publisher>
+<Code><![CDATA[1003-9767]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[产品规划是客户、市场和工程设计等多方因素的凝聚]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[胥京宇;]]></FullName>
+<Organization><![CDATA[]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[世界电子元器件]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[04]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[高性能;功耗;产品规划;]]></Keyword>
+<Keyword  Lang="en"><![CDATA[]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[<正>作为电子行业的业内人士,你是否已经被现今电子行业创新的速度搞得头晕目眩了呢?新买的手机还没新鲜几天就已经被更新款的湮没在“机”群之中了。如果你有一个月没关心过行业新闻,等你再回来时,会]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[100-101]]></PageScope>
+<Publisher><![CDATA[世界电子元器件]]></Publisher>
+<Code><![CDATA[1006-7604]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[基于市场综合分析的产品规划方法研究]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[郭伟,郑江波,齐海燕,王凤岐]]></FullName>
+<Organization><![CDATA[天津大学机械工程学院!天津300072,天津大学机械工程学院!天津300072,天津大学机械工程学院!天津300072,天津大学机械工程学院!天津300072]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[计算机辅助设计与图形学学报]]></Media></Medium>
+<Year><![CDATA[2001]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[01]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[产品规划;市场分析;汽车工业]]></Keyword>
+<Keyword  Lang="en"><![CDATA[product planning, automobile industry, market analysi4]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[文中以竞争者市场分析、目标市场定位分析、新产品竞争力分析评价等方法支持产品规划过程决策 ,结合国内汽车行业的产销信息 ,开发了相关辅助分析工具 ,并进行了具体的案例应用 .]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[48-51]]></PageScope>
+<Publisher><![CDATA[计算机辅助设计与图形学学报]]></Publisher>
+<Code><![CDATA[1003-9775]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[市场信息驱动的产品规划方法研究]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[郭伟,常明山,李璇,王凤歧]]></FullName>
+<Organization><![CDATA[天津大学机械工程学院!天津300072,天津大学机械工程学院!天津300072,天津大学机械工程学院!天津300072,天津大学机械工程学院!天津300072]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[计算机集成制造系统-CIMS]]></Media></Medium>
+<Year><![CDATA[2001]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[01]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[产品规划;市场分析;汽车工业]]></Keyword>
+<Keyword  Lang="en"><![CDATA[product planning; market analysis; automobile industry]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[“用户呼声”是新产品开发的主要驱动力之一 ,市场信息驱动的产品规划方法是通过对市场整体态势的分析 ,从宏观角度把握用户群体需求及其动态 ,进而进行产品评价分析与规划。本文结合国内汽车行业 ,在行业产销信息的基础上 ,系统研究了基于市场综合信息的产品规划方法 ,介绍了相关辅助分析工具的开发及其具体应用的案例]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[23-28]]></PageScope>
+<Publisher><![CDATA[计算机集成制造系统-CIMS]]></Publisher>
+<Code><![CDATA[1006-5911]]></Code>
+</Bibliography>
+<Bibliography>
+Reference Type
+<PrimaryTitle>
+             <PrimaryTitle  Lang="zh-CHS"><![CDATA[AK公司Y系列新产品线STP战略研究]]></PrimaryTitle>
+<PrimaryTitle  Lang="en"><![CDATA[STP Strategy Study on Y Series New Product Line of AK Company]]></PrimaryTitle>
+
+            </PrimaryTitle>
+<Authors><Author><Info lang="zh-CHS"><FullName><![CDATA[金辰]]></FullName></Info></Author></Authors>
+<SecondaryResponsibility Responsibility="Director"><Name><![CDATA[高孝伟;赵楠]]></Name></SecondaryResponsibility>
+<Degree><![CDATA[硕士]]></Degree>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国地质大学(北京)]]></Media></Medium>
+<Year><![CDATA[2018]]></Year>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[消费者行为习惯;产品定位;市场细分;营销策略]]></Keyword>
+<Keyword  Lang="en"><![CDATA[Consumer Behavior;;Positioning;;Market Segmentation;;Marketing Strategy]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+             <Abstract  Lang="zh-CHS">
+                 <![CDATA[随着中国经济增长的放缓,国内珠宝首饰市场也进入了理性的调整和整合阶段,整个行业的整合与洗牌无可避免得加速进行。在这样的竞争环境下,新产品定位战略则为企业提供两层面的意义:产品差异化程度能够推动市场结构变化;能够避免企业直接竞争,从而获取竞争优势。因此基于产品市场细分、目标市场选择和产品定位的科学研究和分析是企业推出新产品的首要研究课题。本次研究基于AK公司即将问世的Y系列产品展开,以珠宝首饰产品的消费偏好调查分析为基础,结合PEST、SWOT、波特五力模型等分析模型,分析研究不同市场细分下,消费者行为习惯,消费偏好,购买心理,购买场所,消费能力等变量因素,结合AK公司的企业战略目标,根据目标市场上竞争者的态度,策略,针对目标市场上潜在客户群的态度和专业化程度,通过系统分析研究K金首饰市场,从而能使企业在市场定位上有一个明确的方向,从而制定出Y系列产品竞争地位战略和产品定位战略。从调研结果看出,K金市场是一个潜在市场,28.8%的消费者在材质偏好中选择K金。对于K金系列饰品,明确偏好低K金饰品的比例为8.3%,没有明显偏好者比例为22.8%。不同地区的偏好比例相近。25周岁之下的,对K金材质无偏好者占45.6%。26~35年龄段消费者对K金类无偏好者占20.81%。在消费频次和年消费额上,25周岁以下成高频次,低总额的消费特点。26~35年龄段消费人群则呈现高频次,中等年消费额的消费特点。从调研报告看,92.8%的样本显示过去一年曾经或未来一年考虑购买珠宝首饰.。潜在消费群体大,竞争者尚未形成垄断。因此,Y系产品将选择低K金饰品市场作为目标市场,通过把握消费者偏好和购买动力两个维度的准确性,打造出Y系列产品竞争优势。并且结合4P营销理论,为后期的营销策略给出战略指导路线,达到企业目标。]]>
+                </Abstract>
+<Abstract  Lang="en">
+                 <![CDATA[With China's economic declined,the domestic jewelry market has been through a rational adjustment and integration process.In this competitive environment,product positioning provides guides for enterprise to avoid direct competition and obtain competitive advantages,so STP strategy is an important step before launching the new product.The research on AK company's upcoming Y series products is based on the jewelry products consumer preference survey analysis,combined with PEST,SWOT,Potter five forces model analysis model and analysis different market segments,consumer behavior,consumer preferences,purchasing psychology,where to buy,consumption and other factors.According to the target market competitors and target market potential customers' attitudes to make a clear direction in the market.From the results of the survey,the K gold market is a potential market,28.8% of consumers is preferring in K gold.For K gold jewelry series,a clear preference for low K gold is 8.3% and the proportion of no preference of low or high K gold is 22.8%.Under 25 years of age,45.6% samples have no clear preference for high or low K gold.The consumers of 26~35 age group who have no preference for the K gold value is 20.81%.For the consumption frequency and annual consumption capacity,the age group of under 25 and 26~35 have huge potential.From the research report,92.8% of the sample shows that they had jewelry consumption in the past year.K gold market has huge potential,and competitors haven't formed a monopoly yet.Therefore,Y products is considering of choosing low K gold jewelry market as the target market,through the analysis of consumer preferences and purchasing capacity,planning to create a competitive advantages of Y series products.Combined with the 4P marketing theory,and providing guidance.]]>
+                </Abstract>
+
+            </Abstracts>
+<Publisher>Database Provider</Publisher>
+</Bibliography>
+<Bibliography>
+Reference Type
+<PrimaryTitle>
+             <PrimaryTitle  Lang="zh-CHS"><![CDATA[战略营销决策方法及应用研究]]></PrimaryTitle>
+<PrimaryTitle  Lang="en"><![CDATA[Research on S-M Decision-Making Method & Application]]></PrimaryTitle>
+
+            </PrimaryTitle>
+<Authors><Author><Info lang="zh-CHS"><FullName><![CDATA[万广圣]]></FullName></Info></Author></Authors>
+<SecondaryResponsibility Responsibility="Director"><Name><![CDATA[傅裕嘉]]></Name></SecondaryResponsibility>
+<Degree><![CDATA[硕士]]></Degree>
+<Medium><Media Lang="zh-CHS"><![CDATA[西安理工大学]]></Media></Medium>
+<Year><![CDATA[2007]]></Year>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[战略营销;营销工程;决策方法;应用研究]]></Keyword>
+<Keyword  Lang="en"><![CDATA[Strategic Marketing; Marketing Engineering; Decision-Making Method; Applied Research]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+             <Abstract  Lang="zh-CHS">
+                 <![CDATA[
+	随着我国市场经济不断发展，营销思想正被越来越多的企业所接受，然而营销思想和理论在国内迅速推广的同时，为何众多企业仍难以取得良好的经营绩效?在企业运营中，营销决策更多地表现为领导的“经验式”决策，决策结果与市场实际状况不符，致使能成功的企业微乎其微。这表明营销理论不等于营销实践，如何走好“理论”到“实践”这一步，值得关注与研究。
+	市场环境的不断变化，对企业营销模式提出了更高要求，传统营销越来越显得与市场不相适宜。战略营销的提出，为新世纪企业营销提供了更好的指导。将营销决策层次提升至公司战略层的战略营销，对营销决策的科学性、规范性提出了更高的要求，因为战略营销决策对企业影响将远远超越职能层的传统营销决策。
+	基于以上背景，本文以战略营销决策方法及应用为研究对象，从决策流程、决策方法的角度研究了战略性STP决策及战略性新产品概念决策中的相关问题，旨在从科学性的一面探讨战略营销决策问题。首先，对战略营销理论进行了进一步探索，为本文研究提供理论基础。笔者从决策层次等角度对战略营销理论进行阐述，并总结了战略营销决策流程，界定了本文的研究范畴。其次，从营销工程的角度详细研究了战略性STP及新产品概念决策的相关理论、流程及方法。此部分着重探讨相应问题的决策流程及决策方法，并对模型的计算机求解实现进行总结。最后，以金华钼业公司钼深加工产品战略营销决策为实证研究对象，对研究内容进行了实证研究，为本文研究内容的实际应用提供了实证依据。
+	本文以应用为导向对战略营销决策的部分内容进行了研究，旨在探索规范的营销决策流程与方法，以期为企业实际营销决策提供借鉴。]]>
+                </Abstract>
+<Abstract  Lang="en">
+                 <![CDATA[ With further development of market economy in our country, marketing concept has been accepted by more and more enterprises, but why many companies can not get fine managing achievement when the marketing concept and theory are popularized fastly in the homeland? In the enterprise's business, the marketing decision-making is more showed as the leader's expericence decision-making, and the result is not aggree with actual situation of marketplace, as a result, the number of successful enterprise is as trifling as it is. This indicates that markeing theory is not equal to marketing practice, and how to go this step, from theory to practice, is worth paying close attention and studying.
+The market environment is changing every minute, which has brought forward higher request to the enterprises' marketing pattern, and traditional marketing has not fit in with the marketplace. The introduction of strategic marketing has provided better direction for the new century enterprise. The strategic marketing, which puts the marketing decision-making at company strategy lay, has suggested higher demand of scientificalness & standardization to do marketing decision-making, for the affection of strategic marketing decision will exceed the decision of traditional marketing to the enterprise.
+Based on the above background, this thesis took strategic marketing decision-making method & its applicationg as research object, and studied related problems about decision-making of strategic STP & new product concept from the aspect of decision-making process and method, which aims at discussing the scientificalness of strategic marketing decision problem. First, a further exploration of strategic marketing theory has been carried out, which provids a theory base for this thesis. The author had done some expiation of the the strategic marketing theory from the angle of decision-making lay, etc, summed up the decision-making process, and fixed the research boundary of this article. Second, based on marketing engineering, relevence theory, process and method of strategic STP & new prodect concept decision has been carried out. The process & method of decision-making in some related problems are discussed in this part, and also does some summary of the realization of model solution aided by computer. Last, the strategic marketing decision-making of Mo further-manufacture product in Jin Hua Co. Ltd has been taken as applied research object, and put the research matter into practice, which provides evidence for the use of the research.
+This application guided thesis has done some research about part content of strategic marketing decision-making, which aims to dicsuss standarded decision-making process and method in marketing, and provides example for actual marketing decision.]]>
+                </Abstract>
+
+            </Abstracts>
+<Publisher>Database Provider</Publisher>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[基于产品属性的新创企业技术创新模式选择]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[李翔;陈继祥;]]></FullName>
+<Organization><![CDATA[上海交通大学安泰经济与管理学院;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[技术经济]]></Media></Medium>
+<Year><![CDATA[2016]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[04]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[新创企业;产品属性;技术创新;渐进性创新;突破性创新;颠覆性创新]]></Keyword>
+<Keyword  Lang="en"><![CDATA[new venture;;product attribute;;technological innovation;;sustaining innovation;;radical innovation;;disruptive innovation]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[从产品性能出发,将产品属性分为功能型属性和创新型属性,根据新创企业对产品属性的改进程度区分不同的技术创新模式。分析了新创企业面对在位企业的竞争时进行渐进性技术创新、突破性技术创新和颠覆性技术创新的市场价格均衡以及各种均衡下的最优利润。探讨了消费者对产品创新型属性的偏好、不同技术创新模式的成本以及技术创新程度等因素对新创企业技术创新模式选择的影响。研究表明:资金实力强的新创企业应从渐进性技术创新与突破性技术创新中选择其一;资金实力弱的新创企业应从渐进性技术创新与颠覆性技术创新中选择其一。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[59-64]]></PageScope>
+<Publisher><![CDATA[技术经济]]></Publisher>
+<Code><![CDATA[1002-980X]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[基于北斗定位的学生智能管理物联网系统架构研究]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[杨岸;唐林杰;]]></FullName>
+<Organization><![CDATA[湖南信息学院电子信息学院;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[科技视界]]></Media></Medium>
+<Year><![CDATA[2016]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[25]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[北斗定位系统;物联网;学生管理;应用系统]]></Keyword>
+<Keyword  Lang="en"><![CDATA[Beidou positioning system;;Internet of things;;Student management;;Application system]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[北斗导航系统是我国正在建设的全球卫星定位与通信系统。物联网是把各种物件与互联网连接起来,使传统网络从人与人的联系扩展到物与物、物与人的联系,是继计算机、互联网技术之后的又一个重要突破。一直以来,各层次学校在学生管理问题上不同程度存在位置难于掌控、逃课缺课及外出安全等问题。本文针对解决这些问题,提出了基于北斗定位的学生智能管理物联网系统的建设方案,并对系统的建设思想和功能模块进行阐述。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[54-55]]></PageScope>
+<Publisher><![CDATA[科技视界]]></Publisher>
+<Code><![CDATA[2095-2457]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[技术新创企业熟化成长阶段的市场主导逻辑选择]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[张小峰;]]></FullName>
+<Organization><![CDATA[安徽工程大学科技文化研究基地;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[湖南商学院学报]]></Media></Medium>
+<Year><![CDATA[2016]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[04]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[技术新创企业;熟化;市场;主导逻辑]]></Keyword>
+<Keyword  Lang="en"><![CDATA[technology startups;;maturating;;market;;dominant logic]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[在创新创业时代背景下,技术新创企业的熟化成长需要市场条件支持。能否跨越早期市场和主流市场之间的巨大鸿沟,赢得市场条件的支持,是实现技术新创企业早期熟化成长的关键。技术新创企业熟化成长的市场支持可以选择以产品为中心的市场要素组合主导逻辑,也可以选择以客户为中心的市场生态系统主导逻辑。如何跨越产品市场化鸿沟,取决于技术新创企业家对市场系统主导逻辑的选择、建构水平及其经营能力。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[53-57]]></PageScope>
+<Publisher><![CDATA[湖南商学院学报]]></Publisher>
+<Code><![CDATA[1008-2107]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[新创企业市场导向对产品创新绩效的影响机制]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[郝生宾;于渤;王瑜;]]></FullName>
+<Organization><![CDATA[哈尔滨工业大学管理学院;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[管理科学]]></Media></Medium>
+<Year><![CDATA[2018]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[05]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[新创企业;先动型市场导向;反应型市场导向;产品创新绩效;市场动荡性]]></Keyword>
+<Keyword  Lang="en"><![CDATA[new venture;;proactive market orientation;;responsive market orientation;;product innovation performance;;market turbulence]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[产品创新对于新创企业成长至关重要,关于市场导向对产品创新影响的研究仍存在诸多不足,缺乏对市场导向影响产品创新绩效路径和机理的深入探讨,不同市场导向对产品创新绩效影响路径和机理是否存在差异仍未厘清,影响效应随外部市场环境变化发生何种变化也并不明晰。另外,已有研究更多是针对成熟企业,缺乏以新创企业为对象的深入研究。依据资源基础理论和战略匹配理论,探讨新创企业先动型和反应型市场导向对产品创新绩效的直接作用和间接作用及作用的机制。以技术能力和营销能力为中介变量,以市场动荡性为调节变量,构建新创企业先动型和反应型市场导向影响产品创新绩效的理论模型。采取大样本问卷调查方法,收集145家新创企业的数据,运用多元线性回归分析对提出的假设进行实证检验。研究结果表明,先动型和反应型市场导向对产品创新绩效均有显著直接正向影响,相对于反应型市场导向,先动型市场导向对产品创新绩效的影响更大;先动型和反应型市场导向均通过技术能力和营销能力对产品创新绩效产生间接正向影响,先动型市场导向更依赖于技术能力对产品创新绩效产生影响,而反应型市场导向更依赖于营销能力对产品创新绩效产生影响;市场动荡性在先动型市场导向影响产品创新绩效过程中起正向调节作用,在反应型市场导向影响产品创新绩效过程中起负向调节作用。研究结果发现了市场导向和战略能力对产品创新绩效的重要影响,从战略和能力层面拓展新创企业产品创新前因变量的研究;发现技术能力和营销能力的中介效应以及市场动荡性的调节效应,揭示了先动型和反应型市场导向作用于产品创新绩效的内在路径和外在条件,深化了对新创企业产品创新实现路径的理论认识,为市场导向如何向产品创新转化提供了微观知识基础。同时,也为新创企业依据市场条件选择市场导向战略、配置相应战略能力,进而提升产品创新绩效提供理论指导。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[84-96]]></PageScope>
+<Publisher><![CDATA[管理科学]]></Publisher>
+<Code><![CDATA[1672-0334]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[基于市场细分的现代企业营销策略选择]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[陈征;]]></FullName>
+<Organization><![CDATA[中国农业银行保定分行;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[商业经济研究]]></Media></Medium>
+<Year><![CDATA[2019]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[01]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[市场细分;现代企业;营销策略选择]]></Keyword>
+<Keyword  Lang="en"><![CDATA[]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[市场经济体制下,开放化、多样化的市场环境,需要现代企业有效整合资源优势,在市场竞争中选择适当的营销策略,以提高企业的核心竞争力推动企业的可持续发展。基于市场细分理论下,产品生命周期、产品属性与市场同质等,均为影响现代企业营销策略选择的重要因素。现代企业营销策略的选择,要以市场为核心,通过提高消费者的个性化消费体验,提升企业市场占有率。随着移动互联、电商化的迅速发展,现代企业可选择差异性营销、集中性营销、组合式营销等战略,通过互动社交营销策略、搜索引擎营销策略或微视频、微平台等创新营销策略,适应市场细分的现实要求,加快企业的营销战略升级。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[65-67]]></PageScope>
+<Publisher><![CDATA[商业经济研究]]></Publisher>
+<Code><![CDATA[2095-9397]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[多功能智能IC学生卡的运用与发展]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[余丽文;谢舒宜;]]></FullName>
+<Organization><![CDATA[广西大学行健文理学院;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[智库时代]]></Media></Medium>
+<Year><![CDATA[2019]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[07]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[多功能;学生卡;运用;发展]]></Keyword>
+<Keyword  Lang="en"><![CDATA[]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[多功能智能IC学生卡是以全体在校生为使用对象,为了能够满足在校师生的实际生活以及学校教学管理的需要,多功能智能IC学生卡具有一卡在手,走遍校园的特色,不仅在生活和管理方面能够更加便捷、高效,还填补了国内校园多功能卡市场的空白。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[220+222]]></PageScope>
+<Publisher><![CDATA[智库时代]]></Publisher>
+<Code><![CDATA[2096-4609]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[基于物联网的智慧校园信息化建设研究]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[王学强;]]></FullName>
+<Organization><![CDATA[兰州财经大学长青学院;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[计算机与网络]]></Media></Medium>
+<Year><![CDATA[2019]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[08]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[智慧校园;智慧教育;校园信息化建设;物联网;]]></Keyword>
+<Keyword  Lang="en"><![CDATA[]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[<正>物联网技术在教育中扮演了一个至关重要的角色,推动数字校园向智慧校园的转化与发展,智慧校园将校园整体连接了起来,为师生提供一个综合信息服务平台,使课堂也进入信息化。基于物联网的智慧校园信息化建设离不开大数据与5G网络的发展与运用。这对于培养学生的科学思维和研究能力都发挥了巨大的作用,也为加强师生之间的交流提供了一个平台,对于资源的共享具有重大意义。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[48-50]]></PageScope>
+<Publisher><![CDATA[计算机与网络]]></Publisher>
+<Code><![CDATA[1008-1739]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[环境不确定性与新创企业产品创新战略]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[陈彪;卢珊;]]></FullName>
+<Organization><![CDATA[郑州大学商学院;吉林大学管理学院;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[当代经济研究]]></Media></Medium>
+<Year><![CDATA[2019]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[05]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[技术不确定性;市场不确定性;不良竞争;产品创新战略;新创企业]]></Keyword>
+<Keyword  Lang="en"><![CDATA[]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[按照新创企业的特点和环境决定论的观点,可以将环境不确定性分为技术不确定性和市场不确定性。技术不确定性和市场不确定性均会积极影响新创企业产品的创新战略;不良竞争对市场不确定性与新创企业产品创新战略都具有负向调节作用,但对技术不确定性的正向作用并不显著;企业年龄对市场不确定性与新创企业产品创新战略具有正向调节作用,对技术不确定性的负向作用不显著。因此,完善制度以保障市场机制的正常运行是促进新创企业采取产品创新战略的重要举措,我国应该进一步改善企业的创业环境,为新创企业营造良好的成长环境。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[64-71]]></PageScope>
+<Publisher><![CDATA[当代经济研究]]></Publisher>
+<Code><![CDATA[1005-2674]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[物联网在中小学校园建设中的应用]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[徐强;]]></FullName>
+<Organization><![CDATA[南京市秦淮区教师发展中心;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[信息与电脑(理论版)]]></Media></Medium>
+<Year><![CDATA[2019]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[13]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[物联网;校园建设;智慧校园]]></Keyword>
+<Keyword  Lang="en"><![CDATA[Internet of things;;campus construction;;intelligent campus]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[目前,物联网(InternetofThings)是计算机信息技术的一个重要分支,被称为计算机与互联网之后的第三次世界范围的信息技术浪潮。物联网是可以让人们日常生活中具有独特性,以互联网和传统信息网络为载体,从而可以互联互通的网络。随着我国目前社会的发展和经济水平的提高,信息技术快速发展,移动电子设备迅速普,加速了物联网的发展。我国十三五规划中能看到许多关于发展物联网的文件和报告。物联网在社会中的应用范围非常大。笔者将针对物联网在中小学校园建设中的应用进行探讨。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[154-155]]></PageScope>
+<Publisher><![CDATA[信息与电脑(理论版)]]></Publisher>
+<Code><![CDATA[1003-9767]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[资源识取对新创企业新产品开发优势的影响研究]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[裴旭东;黄聿舟;李随成;]]></FullName>
+<Organization><![CDATA[西安石油大学经济管理学院;西安理工大学经济与管理学院;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[华东经济管理]]></Media></Medium>
+<Year><![CDATA[2016]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[12]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[资源识取;互补性资源;相似性地位;技术动态性;产品模块化;新产品开发优势]]></Keyword>
+<Keyword  Lang="en"><![CDATA[resource identification and acquisition;;complementary resources;;similarity status;;technological dynamics;;product modularity;;new product development advantages]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[文章结合资源依赖理论和社会网络理论,通过将新创企业所需资源分为互补性资源和相似性地位,探索资源识取对新创企业新产品开发优势的影响,以及技术动态性和产品模块化的调节作用。研究结果表明,互补性资源和相似性地位均对新创企业新产品开发优势有显著的正向影响;技术动态性正向调节相似性地位和新创企业新产品开发优势之间的关系,但对互补性资源和新创企业新产品开发优势之间关系的调节效应不明显;产品模块化正向调节互补性资源和新创企业新产品开发优势之间关系,但对相似性地位和新创企业新产品开发优势之间关系的调节效应不明显。研究结论不仅丰富和发展了新创企业资源整合理论,还对我国新创企业制定新产品开发战略具有重要的理论指导意义。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[35-40]]></PageScope>
+<Publisher><![CDATA[华东经济管理]]></Publisher>
+<Code><![CDATA[1007-5097]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[校园一卡通与市政一卡通的融合创新应用]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[李珊娜;贾卓生;]]></FullName>
+<Organization><![CDATA[北京交通大学信息中心;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[华中师范大学学报(自然科学版)]]></Media></Medium>
+<Year><![CDATA[2017]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[S1]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[校园一卡通;市政一卡通;二卡合一]]></Keyword>
+<Keyword  Lang="en"><![CDATA[campus card;;municipal card;;two in one]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[文章通过分析校园一卡通及市政一卡通的应用现状,提出了二者融合创新的思路,并通过分析建设任务、校园卡系统改造、业务交互架构、卡片生命周期等几个方面阐述应用方案,介绍了校园一卡通和市政一卡通的应用成果,融合创新应用极具代表性和典型性,对其他高校的一卡通建设有着积极借鉴意义.]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[134-137]]></PageScope>
+<Publisher><![CDATA[华中师范大学学报(自然科学版)]]></Publisher>
+<Code><![CDATA[1000-1190]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[International Marketing of Taishan Shigandang Based on STP Strategy]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[TIAN Lichao;]]></FullName>
+<Organization><![CDATA[Academy of Economy, Taishan College;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[Journal of Landscape Research]]></Media></Medium>
+<Year><![CDATA[2017]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[03]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[Taishan Shigandang;Culture;International marketing;STP strategy]]></Keyword>
+<Keyword  Lang="en"><![CDATA[Taishan Shigandang;;Culture;;International marketing;;STP strategy]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[Taishan Shigandang is a widely-spread subculture and an important part of Taishan subculture. Today, there is a great challenge to its protection and development. This paper analyzed the necessity and feasibility of its international marketing based on Segmenting, Targeting and Positioning strategy(STP strategy)]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[67-69+72]]></PageScope>
+<Publisher><![CDATA[Journal of Landscape Research]]></Publisher>
+<Code><![CDATA[1943-989X]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[北斗导航系统首次发布物联网模块]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[]]></FullName>
+<Organization><![CDATA[]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[人民交通]]></Media></Medium>
+<Year><![CDATA[2018]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[02]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[北斗导航系统;物联网;北斗卫星;]]></Keyword>
+<Keyword  Lang="en"><![CDATA[]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[<正>1月8日,我国自主研发的北斗导航系统在重庆首次发布三款物联网模块,开启了北斗卫星进入中国老百姓身边的新时代。在本次发布会上发布的物联网模块,可广泛运用于智慧交通、智慧城管、智慧医疗、智慧教育、智慧环保等多个领域,比如以后我们出行乘坐的高铁,可以通过北斗卫星来保驾护航。中国工程院院士、北斗卫星导航定]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[8]]></PageScope>
+<Publisher><![CDATA[人民交通]]></Publisher>
+<Code><![CDATA[1005-6440]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[物联网技术在中小学校园安全管理中的应用]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[邓湘林;万纤荷;黎纯;]]></FullName>
+<Organization><![CDATA[岳阳楼区教育局;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[电脑编程技巧与维护]]></Media></Medium>
+<Year><![CDATA[2018]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[02]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[物联网RFID传感器;安防;中小学;校园安全;管理平台]]></Keyword>
+<Keyword  Lang="en"><![CDATA[]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[介绍了物联网RFID在平安校园管理中的应用。简要阐述了物联网的概念和结构,RFID射频技术的概念和分类,分析了校园安全管理的现状以及作者在学校的实践案例,在实践的基础上,提出了建设校园安全管理平台,并从技术和功能两个方面进行了分析,指出了校园安全峰值管理和信息安全管理等问题。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[77-79]]></PageScope>
+<Publisher><![CDATA[电脑编程技巧与维护]]></Publisher>
+<Code><![CDATA[1006-4052]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[生命周期论下的企业市场营销组合策略研究]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[陈宝山;]]></FullName>
+<Organization><![CDATA[华东理工大学;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[中国管理信息化]]></Media></Medium>
+<Year><![CDATA[2018]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[10]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[生命周期理论;企业;市场营销]]></Keyword>
+<Keyword  Lang="en"><![CDATA[]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[本文在生命周期理论的视角下,对企业发展不同阶段的特点进行分析,并对企业不同阶段的发展进行营销策略研究,从而为企业增强自身的生命力提供有价值的参考依据。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[96-97]]></PageScope>
+<Publisher><![CDATA[中国管理信息化]]></Publisher>
+<Code><![CDATA[1673-0194]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[基于物联网技术的学生课堂考勤管理系统]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[陈卓;]]></FullName>
+<Organization><![CDATA[信阳农林学院;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[信息与电脑(理论版)]]></Media></Medium>
+<Year><![CDATA[2018]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[16]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[物联网技术;学生课堂考勤;管理系统]]></Keyword>
+<Keyword  Lang="en"><![CDATA[Internet of Things technology;;student classroom attendance;;management system]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[我国的社会经济不断发展,网络信息技术水平也在不断提升。物联网技术是现代信息技术的代表,将物联网技术应用在各行各业中,可以节省人力资源和物力资源,收获事半功倍的效果。笔者将以学生课堂考勤管理作为着眼点,探讨基于物联网技术的学生课堂考勤管理系统,希望能为相关人士提供一些参考。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[82-83]]></PageScope>
+<Publisher><![CDATA[信息与电脑(理论版)]]></Publisher>
+<Code><![CDATA[1003-9767]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[基于生命周期理论的企业市场营销战略分析]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[游康;]]></FullName>
+<Organization><![CDATA[浙江财经大学东方学院;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[商场现代化]]></Media></Medium>
+<Year><![CDATA[2018]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[15]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[生命周期理论;企业;市场营销战略]]></Keyword>
+<Keyword  Lang="en"><![CDATA[]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[企业为应对激烈的市场竞争环境,制定差异化的市场营销战略是必然选择。而战略的制定需要充分考虑企业的生命周期发展特征。本文首先分析了企业生命周期理论的发展历史及内涵。接着,本文从确定营销任务、分析市场环境、目标市场选择、制定市场营销战略以及战略评估和修正五方面,对企业市场营销战略的构成进行了分析。最后,本文指出了基于生命周期理论的企业市场营销战略选择,主要从企业创立期、成长期、成熟期和衰退期四个阶段进行了论述。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[38-39]]></PageScope>
+<Publisher><![CDATA[商场现代化]]></Publisher>
+<Code><![CDATA[1006-3102]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[我国智慧校园建设研究热点探析]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[胡俊杰;]]></FullName>
+<Organization><![CDATA[兰州财经大学信息中心;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[软件导刊]]></Media></Medium>
+<Year><![CDATA[2018]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[09]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[智慧校园;教育信息化;智慧教育;互联网+]]></Keyword>
+<Keyword  Lang="en"><![CDATA[smart campus;;educational informationization;;educational wisdom;;Internet plus]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[以CNKI数据库作为数据来源选取样本,借助SATI2.0和Ucinet6.0对相关文献的高频关键词进行统计分析,梳理出目前我国智慧校园的研究现状与热点,主要集中于智慧校园建设依托技术手段及应用、智慧校园雏形及建设策略与主要特征、互联网+背景下智慧校园建设研究三大方面。根据数据分析以及相关实践,未来我国智慧校园研究将聚焦于智慧校园本质、智慧校园建设中用系统思维做好顶层设计、以应用为先导并使师生有更多获得感等方面。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[215-218]]></PageScope>
+<Publisher><![CDATA[软件导刊]]></Publisher>
+<Code><![CDATA[1672-7800]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[基于物联网的智慧教育应用设计]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[温秀梅;杨阳;付江龙;]]></FullName>
+<Organization><![CDATA[河北建筑工程学院;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[西部素质教育]]></Media></Medium>
+<Year><![CDATA[2018]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[19]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[物联网;智慧教育;仿真实验室]]></Keyword>
+<Keyword  Lang="en"><![CDATA[]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[文章首先概述了智慧教育发展,然后分析了物联网在智慧教育中的应用,最后提出了基于物联网的智慧教育应用设计,即创建智慧图书馆;创建虚拟仿真实验室;应用物联网感知,构建信息化课堂教学。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[148]]></PageScope>
+<Publisher><![CDATA[西部素质教育]]></Publisher>
+<Code><![CDATA[2095-6401]]></Code>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle>
+          <Title Lang="zh-CHS"><![CDATA[新创企业营销管理研究]]></Title>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[李晓明;]]></FullName>
+<Organization><![CDATA[台州职业技术学院;]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[现代营销(下旬刊)]]></Media></Medium>
+<Year><![CDATA[2019]]></Year>
+<Volume><![CDATA[]]></Volume>
+<Issue><![CDATA[09]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[新创企业;创业初期;营销管理;企业成长]]></Keyword>
+<Keyword  Lang="en"><![CDATA[]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[本文主要从新创企业管理的不同、新创企业营销的特点来研究新创企业营销管理。对新创企业产品或服务如何在创业初期有效进入市场,被客户接受或消费,从营销管理的视角提出了一些思路,从而达成新创企业成长的目的。]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[53-54]]></PageScope>
+<Publisher><![CDATA[现代营销(下旬刊)]]></Publisher>
+<Code><![CDATA[1009-2994]]></Code>
+</Bibliography>
+<Bibliography>
+Reference Type
+<PrimaryTitle>
+             <PrimaryTitle  Lang="zh-CHS"><![CDATA[新创企业研发投入与企业绩效关系研究]]></PrimaryTitle>
+<PrimaryTitle  Lang="en"><![CDATA[]]></PrimaryTitle>
+
+            </PrimaryTitle>
+<Authors><Author><Info lang="zh-CHS"><FullName><![CDATA[李亚辉]]></FullName></Info></Author></Authors>
+<SecondaryResponsibility Responsibility="Director"><Name><![CDATA[刘亮]]></Name></SecondaryResponsibility>
+<Degree><![CDATA[硕士]]></Degree>
+<Medium><Media Lang="zh-CHS"><![CDATA[上海社会科学院]]></Media></Medium>
+<Year><![CDATA[2016]]></Year>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[新创企业;企业绩效;研发投入]]></Keyword>
+<Keyword  Lang="en"><![CDATA[new ventures;;Enterprise performance;;R&D investment]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+             <Abstract  Lang="zh-CHS">
+                 <![CDATA[在全球新一轮产业变革的经济环境下,市场竞争达到了白热化的程度,企业想要在这样的市场中生存和发展下去,必须不断增强自身的核心竞争力,而企业核心竞争力的最主要来源正是研发活动。因此,企业核心竞争力的强弱取决于研发活动能否顺利开展。在当前的形势下,只有鼓励企业大力开展研发活动,重视研发投入的绩效,并引导企业制定正确的绩效评价方法,才可以推动企业加大研发力度。近年来,无论是学术界、企业界,还是政府部门,都逐渐认识到了科学评价企业研发投入绩效的重要性,认为通过科学的评价不但能够发现企业研发活动存在的问题,还有助于增强企业的技术创新与盈利能力等。我们都知道,科技创新是经济增长的最强动力,而研发则是科技创新的源泉。现代市场中,企业是科技创新的主力军,想要提高经营绩效必须投入一定资源开展研发活动,但研发活动本身存在一定的风险,因此,研究企业研发投入与绩效间的相互关系就成为了热点课题。本文以新创企业为研究对象,分析了这类企业研发投入与绩效间的相关性,通过实证可以得知研发密度与新创企业的销售净利率有显著正相关关系；新产品产值率与新创企业的销售净利率有显著正相关关系；研发密度与新创企业的资产净利率有显著正相关关系；新产品产值率与新创企业的资产净利率有正相关关系,但不具有显著性；研发密度与新创企业的主营业务利润率有显著正相关关系；新产品产值率与新创企业的主营业务利润率有显著正相关关系。]]>
+                </Abstract>
+<Abstract  Lang="en">
+                 <![CDATA[Under the background of a new round of global industrial revolution, market competition is particularly fierce, and the speed that science and technology innovates is accelerated increasingly. Having their own core competence is the necessary condition for the survival and development of enterprises, which depends on the R&D activities carried out smoothly.In the current situation, in order to promote enterprises to carry out research and development activities actively, we must encourage enterprises to vigorously carry out research activities, emphasis on R&D investment performance, and guide enterprises to develop performance evaluation methods. How to effectively evaluate the R&D investment performance has been the theoretical circles enterprises and government concerned. If we can evaluate the performance effectively,then we can use it to help enterprises enhance profitability, development ability and technological innovation ability. The economic growth is relying on scientific and technological innovation, and R&D activities is the source of technological innovation. Enterprises as the subject of scientific and technological innovation can increase investment in research and development to improve enterprise performance, but the R & D input is risk. Therefore, the research on relationship between R&D investment and enterprise performance is becoming more and more important.In this paper, new ventures are the research objects. My main research is the relationship between new ventures' R&D investment and enterprise performance. Through empirical research I conclude that:The density of R&D has a significant positive correlation with sales net interest rates, asset-net interest ratio and the main business profit rate; The proportion of industrial output value of new products is positive correlation with sales net interest rates, asset-net interest ratio and the main business profit rate.]]>
+                </Abstract>
+
+            </Abstracts>
+<Publisher>Database Provider</Publisher>
+</Bibliography>
+<Bibliography>
+Reference Type
+<PrimaryTitle>
+             <PrimaryTitle  Lang="zh-CHS"><![CDATA[V企业转型期的营销策略研究]]></PrimaryTitle>
+<PrimaryTitle  Lang="en"><![CDATA[Research on the Marketing Strategy of V Enterprise during the Period of Strategic Transformation]]></PrimaryTitle>
+
+            </PrimaryTitle>
+<Authors><Author><Info lang="zh-CHS"><FullName><![CDATA[卢小筠]]></FullName></Info></Author></Authors>
+<SecondaryResponsibility Responsibility="Director"><Name><![CDATA[陈春花]]></Name></SecondaryResponsibility>
+<Degree><![CDATA[硕士]]></Degree>
+<Medium><Media Lang="zh-CHS"><![CDATA[华南理工大学]]></Media></Medium>
+<Year><![CDATA[2016]]></Year>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[企业转型;营销策略;多元化平台;差异化亮点]]></Keyword>
+<Keyword  Lang="en"><![CDATA[Business transformation;;marketing strategy;;diversified platform;;differentiated highlight]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+             <Abstract  Lang="zh-CHS">
+                 <![CDATA[如今中国经济发展正经历着旧体制向新体质转换、经济发展方式的政策性转变,经济模式从资本驱动跨入创新驱动时代,经济结构及其产业结构、消费结构、技术结构和劳动力结构均经历着大调整的过程。国内企业传统的商业模式、资本配置、资源整合、组织管理和产品更新换代等都面临着全新的战略转型挑战和变革。而目前国内实体经济受下滑大格局一直未变的影响,呈现出产能过剩、需求饱和、出口锐减、消费弱化和投资被动等显著特征,使得企业不得不主动寻求变化和商业模式的创新转型。V企业正是国内市场环境变化过程中一家典型的高科技技术企业,自公司正式成立十多年,专注于大屏幕拼接显示设备市场(Multi-Vision Display,以下简称:MV市场),逐步构建了自主品牌相对完善的B2B商业模式和营销体系,不仅拥有自主研发、供应链管理和渠道网络,而且在行业市场树立起了品牌标杆。然而市场经过了多年的持续培育、开发和沉淀,国内各个自主品牌生产商和国外厂商也都纷纷进入争夺着这个增长快速的市场,切分市场“蛋糕”获利,V企业面临着前所未有的竞争。从2013年开始国内经济增长趋缓并呈现下滑趋势,市场结构进入重大调整阶段,MV市场同样整体受国内市场政策、环境影响较大,市场年复合增长率持续下滑,V企业遭受了前所未有的业绩下滑、利润萎缩、市场竞争力减弱等危机。V企业为此进行了一系列的业务战略转型思考和实施。本文基于2013年开始国内市场环境发生变化前后,V企业为应对市场变化,从一家传统硬件设备研发生产制造商向行业可视化解决方案提供商转型过程中遇到的瓶颈,剖析了其关键成功要素,并通过实际成功案例分析,结合相关营销理论知识进行分析研究,进一步阐述了市场营销策略如何匹配战略转型需要的重要性,最后总结出了新市场环境下与客户共赢的价值营销主张。V企业经过十多年的快速成长获得了市场上的成功,其中很重要的因素来自于“强势营销”,包括当时最适合市场生态环境的B2B商业模式和“微笑曲线”战略主张,拥有独立自主知识产权的研发创新力,行业内最完善的渠道销售模式,拥有行业与区域覆盖最广的渠道商和一支能力很强的销售队伍。但面临新产品新业务、新策略、新需求,固有传统的销售方法、思路制约了市场开拓。为此,不断的尝试、调整、改变,从平台多元化硬件销售到可视化解决方案,依据产品形态、区域特点、行业客户需求制定有别不同的市场策略,重新组织架构聘请行业经验丰富的技术顾问或资深专家参与市场策略设计等,在市场实战中摸索出了现在初见成效的方法。希望通过本文的实际案例分析,能够给同行或其它中小型科技企业提供借鉴和参考。当前企业所处的宏观环境正在发生着复杂的和不可预知的多样变化,产生出与传统竞争环境截然不同的新态势。同时企业所面对的微观环境也受外界的影响产生了前所未有的改变。如何在内外部环境的变化下,对公司的战略目标进行及时调整,以适应环境变化并把握机会,是企业当前面临的根本性问题。这就要求企业管理者对自身所处的内部环境和外部环境的动态变化保持一个清晰的认识,敏锐的识别危机并及时应对,并结合自身能力推动战略变革,最终寻找到与客户价值共赢的发展出路。]]>
+                </Abstract>
+<Abstract  Lang="en">
+                 <![CDATA[Today,China's economic development is experiencing the transformation of the old system to the new constitution,the transformation of economic development mode,the economy from the capital to enter the era of innovation driven innovation,industrial structure is in a period of great adjustment.Domestic enterprise business model innovation,resource optimization,organization and management of change and product upgrading of the acceleration period,many enterprises are in a new strategic transition period.At present,the domestic real economy affected by the overall downturn pattern has not changed,is to produce a surplus,the sharp drop in exports,investment and consumption weakened passive and other significant features,innovation and transformation of the enterprises to actively seek change and business models.V enterprise is the change process of the domestic market environment in a typical high-tech enterprises,since the company was founded in 10 years,focusing on large screen display equipment market(Multi-Vision Display,hereinafter referred to as: MV market,independent brand)gradually build a relatively perfect B2 B business model and marketing system,not only has the independent research and development supply chain management and channel network,and the market in the industry to establish a benchmark brand.However,the market after a sustained development and precipitation years,all domestic independent brand manufacturers and foreign manufacturers also have to compete for the rapid growth of market segmentation,market cake profit,V enterprises are faced with hitherto unknown competition.Start the domestic economic growth slowed from 2013 and decline,a major adjustment stage into the market structure,the overall MV market also affected by the environment policy,the domestic market is large,the market compound annual growth rate continued to decline,V enterprises have suffered the hitherto unknown performance decline,shrinking profits,market competitiveness weakened crisis.V enterprises to carry out a series of business strategic transformation of thinking and implementation.This paper is based on the 2013 domestic market environment changes before and after the V enterprise to respond to market changes,to solve the bottleneck of the process solution provider in transition from a traditional hardware manufacturers to industry R & D and production of visualization,analyzes its key success factors,and through the actual analysis of successful case analysis,combining with related marketing theories.Further elaborated how the market marketing strategy,the importance of strategic transformation needs,and finally summed up the new market environment and customer win-win marketing value proposition.V enterprise after 10 years of rapid growth achieved success in the market,one very important factor from strong marketing,including the most suitable for the market environment of B2 B business model and the smile curve strategy that has independent intellectual property rights of the innovative research and development,the industry's most complete channel sales model has the industry's most extensive coverage and regional channels and a strong sales team.But faced with new products and new business,new strategies,new demand,the inherent traditional marketing methods,ideas and constraints of the market development.To this end,constantly trying to adjust,change from a diversified platform hardware sales to visualization solutions,based on product morphology,regional characteristics and industry have different customer needs to develop the market strategy,re organization hired industry experienced technical consultants or senior experts to participate in the marketing strategy design,in combat in the market to find out now the initial results of the method.Hope that through the actual case analysis of this paper,can give the peer or other small and medium-sized technology companies to provide reference and reference.The macro environment of the current enterprise is undergoing complex and unpredictable changes,resulting in a different from the traditional competitive environment of the new situation.At the same time,the micro environment faced by enterprises is also affected by the outside world.How the internal and external environment changes,the company's strategic objectives in a timely manner to adjust to adapt to environmental changes and seize the opportunity,is the fundamental problem facing the enterprise.This requires managers to maintain a clear understanding of the dynamic changes of the internal and external environment,sensitive and timely response to crisis,combined with its ability to promote the strategic transformation,and ultimately find the development way of customer value and win-win.]]>
+                </Abstract>
+
+            </Abstracts>
+<Publisher>Database Provider</Publisher>
+</Bibliography>
+<Bibliography>
+Reference Type
+<PrimaryTitle>
+             <PrimaryTitle  Lang="zh-CHS"><![CDATA[社会网络与市场信息对技术创业企业战略柔性的驱动机制研究]]></PrimaryTitle>
+<PrimaryTitle  Lang="en"><![CDATA[Research for the Driving Mechanism of Social Network and Market Information on Strategy Flexibility of Technology New Ventures]]></PrimaryTitle>
+
+            </PrimaryTitle>
+<Authors><Author><Info lang="zh-CHS"><FullName><![CDATA[杨永峰]]></FullName></Info></Author></Authors>
+<SecondaryResponsibility Responsibility="Director"><Name><![CDATA[张玉利]]></Name></SecondaryResponsibility>
+<Degree><![CDATA[博士]]></Degree>
+<Medium><Media Lang="zh-CHS"><![CDATA[南开大学]]></Media></Medium>
+<Year><![CDATA[2014]]></Year>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[技术创业;战略柔性;市场信息;社会网络]]></Keyword>
+<Keyword  Lang="en"><![CDATA[Technology Entrepreneurship;;Strategy Flexibility;;Market Information;;Social Network]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+             <Abstract  Lang="zh-CHS">
+                 <![CDATA[技术创业在促进经济增长、推动产业升级、创造就业岗位及激发创新水平等方面发挥了重要作用,然而,新技术企业也面临着很高的失败率。作为一种重要的成长驱动要素,战略柔性对技术创业企业取得更高水平的成长概率具有重要作用,战略柔性可以帮助技术创业企业获得合法性,获取新资源与市场收入,从而有助于其进一步吸引到高素质的雇员、战略合作者及风险投资机构的认同。
+	目前,有关战略柔性的研究已取得了一定进展,尽管已有一些学者在战略柔性的形成背景、理论内涵、构成维度、测度方式及其对企业绩效的影响效应等方面做出了一些创新性的探索,但对于战略柔性的驱动机制,现有文献还较少涉及。更重要的是,既有研究大都针对成熟型企业展开,聚焦于技术创业企业战略柔性驱动因素的研究较为匮乏。
+	对于来自中国这样新兴经济体的技术创业企业而言,战略柔性作为突破核心刚性束缚、克服路径依赖、应对环境动态性的有用工具,已成为不确定环境下新技术企业创造竞争优势的重要手段。结合前期对9家技术创业企业的实地访谈和案例研究,本文基于社会网络和市场信息的双重理论视角构建了一个技术创业企业战略柔性的驱动过程模型,并着重研究如下问题：(1)不同类型的社会网络对技术创业企业战略柔性的驱动效应是什么?(2)技术创业企业的市场信息处理过程如何影响其战略柔性的提升?(3)社会网络与市场信息之间存在着怎样的匹配机制?(4)上述驱动机制在不同类型的产品市场类型间是否存在差异效应?如果存在,这种差异效应的具体表现形式又是什么?
+	基于对我国227家技术创业企业的问卷调查,采用实证统计方法对理论假设进行计量检验。研究发现商业网络促进了技术创业企业战略柔性的提升,并且与新兴市场相比,这一效应在成熟产品市场情境下更为显著,政治网络则对战略柔性具有负向影响。当技术创业企业的主导产品面向的是成熟市场时,市场信息获取对战略柔性的驱动效应更明显,当技术创业企业的主导产品面向的是新兴市场时,将更多资源用于对所获取信息的消化吸收会对战略柔性的提升产生更大作用。此外,对于技术创业型企业而言,不同网络类型与市场信息处理行为间的关系也存在显著差异,当其主导产品面临的是新兴市场情境时,政治网络有助于其获取更多有价值的市场信息,而当其主导产品面临的是成熟市场情境时,商业网络会比政治网络在信息获取活动上具有更大的战略价值。
+	本文的研究贡献和创新主要体现在以下四个方面：(1)首先,基于以往学者大多侧重于讨论战略柔性对企业绩效的后向作用关系,本文考察了战略柔性的前端驱动因素,并探索性的构建了一个过程模型,研究结论有助于我们科学理性的识别战略柔性的提升要素,帮助技术创业企业更好的通过战略柔性来改善和提高绩效水平。(2)其次,不同于以往学者大多从网络中心性、网络密度、网络规模和网络集中度来刻画社会网络的结构性视角,本研究从关系和职能角度入手,将社会网络区分为商业网络和政治网络,并考察了这两种不同类型的网络对技术创业企业战略柔性和市场信息的影响效应。(3)第三,本文发现市场信息获取与市场信息利用对技术创业企业的战略柔性提升具有重要影响,而且信息获取与信息利用之间也存在着积极的正向关系,这一研究结论对市场信息文献具有一定的丰富和补充。(4)最后,本文探索了上述驱动路径在技术创业企业面向的不同产品市场(新兴市场Vs.成熟市场)之间的差异效应,揭示出了商业网络、政治网络、市场信息获取和市场信息利用对技术创业企业战略柔性的影响机制在不同产品市场类型之间的相对作用大小及其成因。
+	本文的结构安排如下：第一章为文章的绪论,论述了研究背景、研究问题、研究意义、研究方法和技术路线。第二章是理论基础与文献综述,论述了本研究的理论来源和文献综述步骤。在此基础上分别对创新驱动背景下的技术创业兴起、技术创业者和技术创业的内涵及其独特性、战略柔性对技术创业企业生存与成长的重要性等方面进行了深入分析。第三章是研究模型和理论假设部分,分析了社会网络、市场信息与技术创业企业战略柔性之间的适配关系,对关键概念进行了界定,并演绎出了相应的理论模型与假设。第四与第五章是文章的研究方案及实证分析部分,汇报了调研方案设计、问卷开发程序、数据搜集流程和计量统计分析方法,通过对所搜集数据的实证统计,在第五章中汇报了相应的因子分析和假设检验结果。文章的第六章是结论与启示部分,对本研究的主要研究发现进行了总结,归纳了本文的研究创新与理论贡献,指出了研究局限,并论述了今后可以进一步探索的方向。]]>
+                </Abstract>
+<Abstract  Lang="en">
+                 <![CDATA[Technology entrepreneurship has played an important role in promoting economic growth, improve industrial upgrading, create jobs and stimulate innovation level; however, new technology start-ups are also facing a high failure rate. As an important driven factor for new venture growth, strategic flexibility is important for technology start-ups to survive and obtain higher performance; strategic flexibility can help Technology new venture acquire legitimacy, access to new resources and gain markets income, and finally, to help start-ups further attract high quality employees, strategic partners and venture capitalists.
+	Currently, research literature on strategic flexibility has made some progress, although there are some scholars make innovative headway on the strategic flexibility' forming background, theoretical framework, constitute dimension, measurement models and its effects on firm performance, but for their drive mechanism, the existing literatures are less involved. More importantly, existing studies for strategic flexibility are mainly focused on mature companies; little attention has given to the technology start-ups.
+	For those technology start-ups from emerging economies such as China, strategic flexibility as a useful tool to break the core rigidity, to overcome path dependence, and to deal with the dynamic nature of the market, it has become an important means for new technology enterprise to creates competitive advantage under the uncertain environment. Combined with previous field interviews and case studies for nine technology start-ups, this paper construct a process driven model for strategic flexibility based on the dual perspectives of social network theory and market information theory. The thesis explores the following questions:(1) what are the driving effects for different types of social network to strategic flexibility?(2) How market information affect technology new venture' strategic flexibility from the process view?(3) What are the specific matching mechanism between social network and market information?(4) Whether there exist differences for above matching mechanism between the different types of product market condition? If present, what is the particular manifestation of these differences effects?
+	Using valid questionnaires dataset from227Chinese technology start-ups, the thesis employing multi-group structural equation model to test our research hypotheses. The study found that business networks can promote the strategic flexibility, and compared with the emerging markets, this effect is more significant in the context of a mature product market, while political networks are having a negative impact on the strategic flexibility. when the leading product of technology start-ups is intended for a mature market, the driven effect of market information gathering for strategic flexibility are more significant, while when the leading product is intended for a emerging market, there will be more reasonable for technology start-ups to putting more resource on the marketing information absorption and utilization, since there will be more favorable to enhance strategic flexibility. In addition, for the technology entrepreneurial businesses, the relationship between different types of networks and market information processing behaviors are also exists significant divergence, when its leading products are facing with emerging markets, the political networks will more valuable to its market information gathering, and when its leading products are faced with mature market situation. the business networks will have greater strategic value in the market information acquisition than political network,
+	the research contributions and theoretical innovations of my paper is mainly reflected in the following four areas:(1) First, surpassing the most previous studies which mainly focused on the effects of strategic flexibility on firm performance, this thesis examines the front driven mechanisms of strategic flexibility, and exploratory build a process model, our research findings will help us to rational identify improvement factors for strategic flexibility, thereby to help Chinese technology start-ups increase their performance level through strategic flexibility.(2) Secondly, unlike the mostly past literatures for their structural perspective to study social network from the network centrality, network density, network size and network concentration, the study use relations and functions perspective to characterize the social network, and classify it as business network and political network, and examines the impact of those two different types social network on technology start-ups'strategic flexibility and market information.(3) Thirdly, we find that market information gathering and its utilization are the important ways to enhance strategic flexibility, and there are also exists positive effects in the relationship between information access and information utilization, those finding are also make important contribution for market information theory.(4) Finally, the paper explores the differences effects about above path model between the different product market conditions (emerging markets vs. mature markets) for Chinese new technology ventures, and we found that business and political network, and market information access and their use have different roles to influence strategic flexibility at the above emerging and mature markets, I also examined why those effects will be happen.
+	This thesis is organized as follows:the chapter one discusses the study background, study questions, study methods and study value, and describes the research framework and technical route. Chapter Two are the theoretical foundation and literature review part, I discuss the theoretical context of this study, how to choose literature and make review, I also did an in-depth analysis for relevant theory of technology entrepreneurship, strategic flexibility, market information, and social networks in this chapter. In the Chapter Three, I elaborated the relationship among social network, market information and technology start-ups'strategic flexibility, and developed the corresponding theoretical framework and research hypotheses. The fourth and fifth chapters are research design and empirical results, I describe the method of questionnaire design, data collection procedures, and hypothesis testing results. The last chapter of the thesis did the summary and outlook for my study; I summarized the main conclusions of this paper, analyzed the theoretical contribution and management value, and pointed out the limitations of the study and the future direction of further research.]]>
+                </Abstract>
+
+            </Abstracts>
+<Publisher>Database Provider</Publisher>
+</Bibliography>
+<Bibliography>
+Reference Type
+<PrimaryTitle>
+             <PrimaryTitle  Lang="zh-CHS"><![CDATA[科技型新创企业可持续成长动力机制研究]]></PrimaryTitle>
+<PrimaryTitle  Lang="en"><![CDATA[Research on Sustainable Growth Motivation Mechanisms and Management of Technology-based New Ventures]]></PrimaryTitle>
+
+            </PrimaryTitle>
+<Authors><Author><Info lang="zh-CHS"><FullName><![CDATA[王丽平]]></FullName></Info></Author></Authors>
+<SecondaryResponsibility Responsibility="Director"><Name><![CDATA[许正中]]></Name></SecondaryResponsibility>
+<Degree><![CDATA[博士]]></Degree>
+<Medium><Media Lang="zh-CHS"><![CDATA[天津大学]]></Media></Medium>
+<Year><![CDATA[2011]]></Year>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[科技型新创企业;可持续成长;结构方程模型;动力机制]]></Keyword>
+<Keyword  Lang="en"><![CDATA[New Scientific and Technological Ventures;; Sustainable Growth;; Structural Equation Model (SEM);; Motivation Mechanisms]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+             <Abstract  Lang="zh-CHS">
+                 <![CDATA[随着当今世界经济与技术一体化发展趋势的日益明显,推动各国经济发展的力量重心开始逐步由具有垄断优势的大型企业,转向创新活动密集的科技型企业,尤其是不具规模优势的科技型新创企业的优势越发凸显,其作为最具发展潜力和创新活力的群体,在我国建设创新型国家的过程中占据举足轻重的地位。但是,平均寿命较短是我国科技型新创企业存在的普遍问题。尽管,近年来我国政府和全社会各方力量,已经意识到扶植科技型新创企业成长的必要性与重要性,并出台具体政策及实际举措。但这并不能从根本上解决其所普遍面临的现实问题。我国科技型新创企业寿命较短,已经成为国家经济发展过程中迫切需要解决的问题,需要国家、社会以及企业自身予以重视。
+	本文将我国科技型新创企业寿命较短作为力求解决的现实问题,通过对以往研究文献的整理与实证分析,探寻驱动科技型新创企业可持续成长的动力因素,最终构建出科技型新创企业可持续成长的动力机制及管理对策作为本文的研究问题。
+	首先,本文依据企业可持续成长理论丛林中的相关理论,并结合国内外关于企业可持续成长以及科技型新创企业成长等相关研究成果,分析并归纳影响科技型新创企业可持续成长的基础性因素及直接因素来源,并对各影响因素的作用机理进行分析,从而建立科技型新创企业可持续成长的动力机制理论模型并提出相关假设。接着,通过对天津地区科技型新创企业进行问卷调查与深度访谈,收集企业实践中关于影响因素对企业可持续成长作用效果的相关意见。之后,运用数学分析方法对调查问卷数据进行统计与实证分析,以最终确定驱动科技型新创企业可持续成长的基础动力因素以及直接动力因素。最后,针对实证分析得出的基础动力因素以及直接动力因素,构建出适合我国科技型创新企业可持续成长的动力机制,并结合科技型新创企业成长中的实际问题,借鉴国内外企业实践中的先进管理经验,提出相应的管理对策建议。]]>
+                </Abstract>
+<Abstract  Lang="en">
+                 <![CDATA[Recently, as the trend of integration of world economy and technology is increasingly evident, the impetus of economic development of every country has transformed from large companies with monopolistic advantages to new scientific and technological ventures, especially those which don’t possess scale advantage, whose advantage is increasingly evident. And they a group of enterprises which are the most possessed the development potential and innovative activities. Such kind of ventures occupies a pivotal position during the process of building an innovation-oriented country for our China. However, the common problem of the new scientific and technological ventures of our China is the shorter average life expectancy. Although, in recent years, the government and all society in China have recognized the necessity and significance of fostering new scientific and technological ventures’development and have formulated some related specific policies and practical initiatives. Only by this way, the general practical problems of the new scientific and technological ventures can not be fundamentally solved. What should be urgently solved during the process of national economic development is that the short average life expectancy of new scientific and technological ventures of China, which also should be paid enough attention by our country, society and the new scientific and technological ventures themselves.
+	In this dissertation, the shorter average life expectancy of new scientific and technological ventures of China is considered as a realistic problem needed to be urgently solved. Through studying related literatures and empirical analyses, the motivation factors to sustainable development of new scientific and technological ventures has been explored, and on this basis, the motivation mechanisms and proposed management countermeasures of new scientific and technological ventures has been established.
+	Firstly, according to the related theory jungle of enterprise sustainable development and combined with the related research results both at home and abroad on enterprise sustainable development and growth of new scientific and technological ventures, the basic and direct factors which influence the sustainable growth of new scientific and technological ventures as well as their mechanism have been analyzed and summarized in this dissertation, so that the dynamic mechanism theory model of new scientific and technological ventures could be established, and meanwhile the relevant assumptions has been put forward. Then, the business experts’views on the importance degree of the factors that contribute to the sustainable growth of new scientific and technological ventures has been collected through questionnaire survey and depth interview on new scientific and technological ventures in Tianjin. After this, statistical analyses and empirical analyses on the data of the questionnaire survey is carried on through mathematical analysis method. By this way, the basic and direct motivation factors of sustainable growth of new scientific and technological ventures have been found. Finally, in the light of basic motivation factors and direct motivation factors, appropriate sustainable growth motivation mechanisms to the new scientific and technological ventures of China have been established. Meanwhile, the suggestions to management countermeasures has been put forward according to the practical problems during the growth of new scientific and technological ventures and by learning from the practice of the advanced management experience of both domestic and foreign enterprises.]]>
+                </Abstract>
+
+            </Abstracts>
+<Publisher>Database Provider</Publisher>
+</Bibliography>
+<Bibliography>
+Reference Type
+<PrimaryTitle>
+             <PrimaryTitle  Lang="zh-CHS"><![CDATA[新技术企业市场进入战略决策机制研究]]></PrimaryTitle>
+<PrimaryTitle  Lang="en"><![CDATA[Research on the Choice of the Market Entry Strategy of the New Technology Venture]]></PrimaryTitle>
+
+            </PrimaryTitle>
+<Authors><Author><Info lang="zh-CHS"><FullName><![CDATA[田莉]]></FullName></Info></Author></Authors>
+<SecondaryResponsibility Responsibility="Director"><Name><![CDATA[任学锋]]></Name></SecondaryResponsibility>
+<Degree><![CDATA[博士]]></Degree>
+<Medium><Media Lang="zh-CHS"><![CDATA[南开大学]]></Media></Medium>
+<Year><![CDATA[2010]]></Year>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[新技术企业;创业团队先前经验;市场进入战略;技术独享性;环境宽松性]]></Keyword>
+<Keyword  Lang="en"><![CDATA[New Technology Venture;;Entreprenunal Team;;Prior Experience Technology Appropriability;;Environment Munificence]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+             <Abstract  Lang="zh-CHS">
+                 <![CDATA[近二十年来,新技术的快速发展和普及应用极大地推动了新一轮的创业热潮。作为科技成果商业化的重要途径,技术创业的关键在于完成从技术创新到实现经济与社会价值的飞跃。创业与战略领域的相关研究表明,市场进入战略等一系列初始战略决策是技术创业成败与商业价值创造的关键因素。因此从理论上解释新技术企业初始战略的决策逻辑,是提升技术创业者商业技能,进而改善我国创业活动结构的关键途径。本文以初创期的新技术企业为研究对象,从初始条件的视角,运用社会认知、战略选择等理论知识,考察创业团队成员如何依照其先前经验,并综合考虑技术资产和所面临的环境条件等因素为新企业选择市场进入战略。利用150份基于分层随机抽样得到的有效问卷,采用因子分析、多元回归分析等分析方法进行了实证检验,得到如下结论：
+	第一,市场进入战略的创新性从整体上提升了新技术企业绩效,但对成长性绩效和规模绩效的影响性不同。新企业在产品与服务、交易结构及交互项上的创新都使其拥有更高的成长性。但在产品与服务上谋求创新的新企业会暂时牺牲其发展规模,使其绝对值受到影响。交易结构创新稳定的与以规模为标准而测度的绩效正相关,表现在资产规模、员工人数和销售收入三方面。
+	第二,新技术企业初始战略来源于创业团队基于先前经验而达成的集体认知决策。技术导向型团队倾向于通过产品与服务的创新进入市场,市场导向型的团队则竭力从交易结构的创新入手,在行为模式上更加商业化,往往忽视产品与服务的创新。兼顾技术和市场导向的团队,虽然拥有多元化的认知模式,却没能迸发出应有的创造力。
+	第三,技术独享性在创业团队经验构成与进入战略创新性之间起正向调节作用。核心技术受到较好的知识产权保护时,技术导向型团队更加倾向于通过高研发投入来开发创新性的产品与服务,市场导向型团队则因此而加大在交易结构上创新的力度,兼顾技术与市场导向的创业团队依然无法在进入战略上谋求创新。技术独享性提升了创业团队在市场进入战略上进行创新性动力,但并没有使得创业团队成员跨出固有认知模式的烙印作用而尝试新的创新途径,仅仅是深化其原有的认知模式。
+	第四,环境宽松性改变了创业团队在选择市场进入战略时的关注点。新企业资源禀赋的匮乏加大了从外部获取资源的必要性,在进入战略上的创新更需要权衡外部环境条件而谋求平衡。实证结果表明当环境较为宽松时,技术导向型和市场导向型的创业团队均表现出对产品与服务创新的忽视,而加大了在交易结构上谋求创新的力度。
+	本文的理论价值和创新之处体现在以下三方面。第一,突破了已往研究仅仅关注哪种战略选择更有助于提升新企业绩效的问题,将视角前移到初始战略的来源和决策机制等更具本源性的问题。第二,针对初始战略的多层次多维度性,聚焦于市场进入战略的前因与结果研究。基于中国情境下的随机样本,界定市场进入战略的内涵与维度,整合并开发测度量表,探讨市场进入战略的前因变量及其对新企业绩效的影响,深化了对该前沿问题的了解。第三,将技术资产及环境要素纳入市场进入战略选择的分析框架并验证其调节作用。深化了西方研究领域里仍很前沿的创业团队构成与进入战略创新性关系问题的探讨,检验了西方理论对我国新技术企业进入战略生成的适用性,有助于启发东西方制度文化背景下的比较研究,探索制度文化差异如何塑造进入战略属性及其生成过程特征、不同制度文化条件下影响进入战略创新性的关键要素有何差异等深层次问题。
+	本文共六章,结构安排如下：第一章,绪论。介绍研究背景、研究问题和意义、研究目标和方法等,归纳论文的框架体系。第二章,文献回顾与评述。对研究依托的理论基础和相关研究成果进行梳理,识别已有研究的不足及可能的拓展方向,导出本研究的问题。第三章,理论模型与研究设计。界定研究的关键变量,提出研究假设,并推导文章的整体模型。第四章,研究设计与研究流程。介绍从探测性调研到正式随机抽样方案的设计,主要变量的选取和测量方式、统计分析方法等。第五章,实证分析与结果。汇报具体数据收集过程及样本数据描述性统计分析、条目鉴别能力及同源方法偏差检验以及信度与因子分析的结果。在此基础上进行了回归分析和假设检验,得出研究结论及其相应的解释。第六章,结论与展望。提炼论文的主要发现和创新点,总结研究的理论贡献及实践启示。同时提出存在的不足和未来研究的展望。]]>
+                </Abstract>
+<Abstract  Lang="en">
+                 <![CDATA[As an important way for the commercialization of scientific and technological achievements, technology entrepreneurship plays an increasingly important role in the new historical stage of China's reform and opening period. The core of technology entrepreneurship relies on the successful market entrance with new products and services, so as to realize value creation on economic and social dimensions. The market entry strategy is a key determinant of start-up success and value creation. Therefore, clarify the origin and decision-making mechanisms of new technology venture's founding strategy, not only helps to grasp the management focus of entrepreneurial activity, but also improve China's entrepreneuriship structure and upgrade the business skills of technology entrepreneurs.
+	Based on above background, the study takes the new technology venture in founding period as research target and combines the social cognition theory, strategic choice theory and the entrepreneurial process research results as the theoretical base. The study explores how entrepreneurial teams make decision based on their prior experiences and choose the entry strategy, while taking technology assets and environment conditions into consideration.150 copies of questionnaires based on layered random sampling method were used to do empirical examination, using factor analysis and multiple regression analysis etc.
+	With the theoretical development and quantitative analysis, the foundings are showed as follows:
+	First of all, the innovativeness of the market entry strategy improves the new technology ventures' performance as a whole, but it plays different effects on growth-oriented performance and scale-orientated performance. From new venture growth point of view, the innovation on either dimension of product and service or transaction structure, or both dimensions will endow much higher growth potential on new technology venture. With respect of the size of the new venture, innovation on product and service negatively impacts their initial scale. On the other hands, the innovation on transaction structure positively relates to the new venture performance, which will have larger scales on current assets, employee numbers and sales revenues.
+	Secondly, the founding strategy originates from collective cognitive based on entrepreneurial teams'prior experience. This study builds up a founding strategy choice model based on social cognition theory, which is, during the founding period, entrepreneurial teams make decision based on their prior experiences and choose the entry strategy. Specifically, the technology oriented teams tend to enter the market by innovative products or services, while the market oriented teams prefer transaction structure innovation. The heterogeneous team with both technology and market orientation failed to innovate on entry strategy in spite of the multiple cognitive mode.
+	Thirdly, technology appropriability enhanced the innovativess of market entry strategy, but could not change entrepreneurial teams' inherent cognitive model. Besides the main effect of the prior experience and market entry strategy choice, one goes further into the decision process. It finds that technology appropriability play a positive moderating effect.In details, technology orientated team inclines to development more innovative product and service due to higher intellectual property protection mechanism, while market orientated team will enhanced their innovation on transaction structure and the insignificant relationship between heterogeneous team with both technology and market orientation and market entry strategy innovation remains. It means the advantage of technology appropriability do not make entrepreneurial team try new innovation, but only deepen their original cognitive model.
+	Last but not the least, environment munificence change entrepreneurial teams' focus during market entry strategy choice.Due to the scarcity of their initial resource endowments, new venture depend on external resources and its receptivity to support their innovation activities. The study finds out that, under the munificent environment, both the technology and market oriented team fails to innovate on product or service, but commit themselves to the innovation on transaction structure and try to enter the market through new channels.
+	The contributions of the study are showed as follows. First of all, this study explores the genesis and decision mechanism of new ventures' founding strategy, but not only the common questions of which kinds of strategy are more helpful to new venture growth. Based on social cognition and strategy choice theory, one illustrates the critical role of prior experience in strategic decision-making and suggests that key theoretical and empirical evidence from cognitive and social psychology can be generalized to the context of new ventures' strategic decision-making. Secondly, in deal with the multiple dimension of founding strategy, the study focuses on the cause and effect of the market entry strategy. Based on random sample of Chinese new technology venture, the study defines its dimension and consolidates the measurement scale. One examine the applicability of western theory on the market entry perception in China, which will enlighten the comparative study between western and eastern institutional background.Thirdly, this study takes the technology asset and environment factors into market entry strategy choice model and examine their moderating effect, which capture both the internal and external influencing factors and revivifies the real decision process to the largest externt.
+	The structure of the study is showed as follows. Chapter one makes a review about this research's logic clues and key issues, and introduces the study context, contents and methods, and the systematic framework. Chapter two is the part of literature review and showed the theoretical context and theoretical base of the study. Chapter three is the part of theoretical development and model development. Chapter four is the part of research design and process, which reports the tentative research and the random sampling method, variable measurement and statistical analysis method. Chapter five is the part of empirical study, which explores the relationship between the innovativeness of market entry strategy and new venture performance, the entrepreneurial teams'prior experience and its founding strategy choice as well as the moderating effect.Chapter six summarizes conclusions and explains the study's contribution and innovation points in theory and practice aspects, and analyzes the deficiency and the future research around the dissertation issue.]]>
+                </Abstract>
+
+            </Abstracts>
+<Publisher>Database Provider</Publisher>
+</Bibliography>
+<Bibliography>
+<Type>Newspaper</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle Lang="zh-CHS">
+          <![CDATA[创新信息技术应用  驱动企业转型升级]]>
+          </PrimaryTitle> 
+<Authors><Author><Info lang="zh-CHS"><FullName><![CDATA[赵振锐  孙雪娇  刘学军]]></FullName></Info></Author></Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[世界金属导报]]></Media></Medium>
+<PrintDate><![CDATA[2019-08-06]]></PrintDate>
+<PageScope><![CDATA[B12]]></PageScope>
+<Code><![CDATA[11-4676/f]]></Code>
+</Bibliography>
+<Bibliography>
+Reference Type
+<PrimaryTitle>
+             <PrimaryTitle  Lang="zh-CHS"><![CDATA[技术能力对产品升级的影响研究]]></PrimaryTitle>
+<PrimaryTitle  Lang="en"><![CDATA[Research on the Impact of Technological Capability on Product Upgrading]]></PrimaryTitle>
+
+            </PrimaryTitle>
+<Authors><Author><Info lang="zh-CHS"><FullName><![CDATA[叶妍]]></FullName></Info></Author></Authors>
+<SecondaryResponsibility Responsibility="Director"><Name><![CDATA[杨水利]]></Name></SecondaryResponsibility>
+<Degree><![CDATA[硕士]]></Degree>
+<Medium><Media Lang="zh-CHS"><![CDATA[西安理工大学]]></Media></Medium>
+<Year><![CDATA[2019]]></Year>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[技术能力;市场导向;产品升级]]></Keyword>
+<Keyword  Lang="en"><![CDATA[Technological capability;;Product upgrading;;Market orientation]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+             <Abstract  Lang="zh-CHS">
+                 <![CDATA[当前,我国制造业处在价值链低端,为突破“低端锁定”困局,制造业纷纷转型升级,国家出台了“中国制造2025”“供给侧结构性改革”等文件,对转型升级起到支撑作用。制造业最主要的产物是产品,我国制造业也从代工企业向研发生产销售于一体的综合型制造企业转型,在转型升级过程中,产品升级成为重要的突破点,质量高、性能好、功能新颖的产品是在行业立足的基础,但大部分制造企业在产品升级时都面临困境,阻碍了制造企业产品升级,而企业技术能力是企业产品升级的基础和关键,基于此,本文要重点研究的是技术能力如何对产品升级产生影响,以及市场导向在此过程中起到的调节作用。本文以制造企业为研究对象,根据企业能力理论、战略理论、资源基础理论,运用多元回归分析和结构方程模型分析法,对技术能力、产品升级和市场导向间的关系进行研究。首先,对技术能力、产品升级和市场导向三个变量的国内外相关文献进行梳理;其次,通过理论分析阐释三个变量间的关系,并构建本文的理论模型;然后,在前人研究基础上,根据已有研究成果设计研究变量的测量指标,并进行预试问卷设计、分析,根据预试问卷回收情况,对问卷进行改进和完善,从而确定正式调研问卷;最后,根据回收的364份有效问卷,运用SPSS22.0和Amos20.0软件进行数据分析,通过相关性分析、多元回归分析和结构方程模型对假设进行检验。实证研究结果表明:①技术能力正向影响产品升级;②市场导向对技术能力与产品升级起到了调节作用。根据实证研究结果,结合制造企业产品升级的障碍及成功企业的案例,认为制造企业应着重提升技术应用能力、技术整合能力、技术研发能力并充分发挥市场导向的调节作用,以此促进产品升级,并从企业层面和产业层面分别为制造企业提出产品升级的对策建议。]]>
+                </Abstract>
+<Abstract  Lang="en">
+                 <![CDATA[At present,China's manufacturing industry is at the low end of the value chain.In order to break through the low-end locking dilemma,the manufacturing industry has undergone transformation and upgrading.The state has issued documents such as Made in China 2025and,supply-side structural reform.To support.The most important product of the manufacturing industry is the product.The manufacturing industry in China has also transformed from a foundry enterprise to a comprehensive manufacturing enterprise integrating R&D,production and sales.In the process of transformation and upgrading,product upgrading has become an important breakthrough point,with high quality and good performance.The products with novel functions are the foundation of the industry.However,most manufacturing companies are faced with difficulties in product upgrades,which hinders the upgrading of manufacturing enterprises.The technical capabilities of enterprises are the basis and key to the upgrading of enterprise products.Based on this,this paper will focus on Research is on how technical capabilities affect product upgrades and the role of market orientation in this process.This paper takes manufacturing enterprises as the research object,and uses the multiple regression analysis and structural equation modeling analysis method to study the relationship between technical ability,product upgrading and market orientation according to enterprise capability theory,strategic theory and resource basic theory.Firstly,it sorts out the domestic and foreign related literatures of technical competence,product upg;rading and market orientation.Secondly,through theoretical analysis,the relationship between the three variables is explained and the theoretical model of this paper is constructed.Then,based on the previous studies.According to the existing research results,the measurement indicators of the research variables are designed,and the pre-test questionnaires are designed and analyzed.According to the recovery of the pre-test questionnaires,the questionnaires are improved and improved to determine the formal questionnaires.Finally,364 copies are valid.Questionnaires were analyzed using SPSS22.0 and Amos 20.0 software,and hypotheses were tested by correlation analysis,multiple regression analysis and structural equation modeling.The empirical research results show that:①technical ability positively affects product upgrade;②market orientation plays a regulatory role in technical capability and product upgrade.According to the results of empirical research,combined with the obstacles of product upgrades in manufacturing enterprises and the case of successful enterprises,it is believed that manufacturing enterprises should focus on improving technology application capabilities,technology integration capabilities,technology research and development capabilities,and giving full play to market-oriented adjustments to promote product upgrades.This paper proposes countermeasures for product upgrades from the enterprise level and the industry level.The enterprise level starts from the product design link,R&D link,production link and commercialization.It proposes to use advanced technologies such as big data to enhance user demand tracking.And personalized customization;useInternet +technology to accelerate product technology iteration;continuously optimize product technology,implement quality management throughout the process;grasp the trend of cross-border integration,focus on resource integration and cross-border innovation.The measures at the industrial level are:(1)promote the construction of the basic information platform for manufacturing;(2)improve the innovation platform and system construction of manufacturing enterprises;(3)implement thedouble innovation policy of manufacturing enterprises;(4)develop for manufacturing enterprises.Provide a high level of service.]]>
+                </Abstract>
+
+            </Abstracts>
+<Publisher>Database Provider</Publisher>
+</Bibliography>
+<Bibliography>
+Reference Type
+<PrimaryTitle>
+             <PrimaryTitle  Lang="zh-CHS"><![CDATA[技术创新与企业价值链升级—驱动主体因素的调节作用]]></PrimaryTitle>
+<PrimaryTitle  Lang="en"><![CDATA[Technological Innovation and Enterprise Value Chain's Upgrading-Moderated by Primary Driver Factors]]></PrimaryTitle>
+
+            </PrimaryTitle>
+<Authors><Author><Info lang="zh-CHS"><FullName><![CDATA[张仁丹]]></FullName></Info></Author></Authors>
+<SecondaryResponsibility Responsibility="Director"><Name><![CDATA[杨水利]]></Name></SecondaryResponsibility>
+<Degree><![CDATA[硕士]]></Degree>
+<Medium><Media Lang="zh-CHS"><![CDATA[西安理工大学]]></Media></Medium>
+<Year><![CDATA[2019]]></Year>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[技术创新;驱动主体因素;企业价值链升级]]></Keyword>
+<Keyword  Lang="en"><![CDATA[Technological Innovation;;Primary Driver Factors;;Upgrading of enterprise value chain]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+             <Abstract  Lang="zh-CHS">
+                 <![CDATA[实体经济发展是带动我国经济发展的根本,传统制造业的发展是我国实体经济发展的根基,应始终坚持补足我国传统制造业发展的短板是促进我国经济发展的动力源泉。随着我国传统制造业几十。年的发展,其参与全球价值链的程度不断加深,但由于我国传统制造业的产品附加值与价值创造能力不足,导致我国传统制造业被锁定在了全球价值链的中低端。而如何提升我国企业在全球价值链的参与过程中的利益分配,实现企业价值链升级的问题已经成了我国传统制造业在新一轮经济发展中的首要任务。因此,本研究基于目前传统制造业的发展现状,探索技术创新与传统制造业企业价值链升级的关系研究。本研究首先基于现有技术创新与价值链升级的文献基础,梳理并总结现有关于传统制造业企业技术创新与价值链升级的研究成果;其次,基于技术创新视角对企业价值链升级的作用机理进行了分析,结合现有技术创新与企业价值链升级存在的问题,提出研究假设并构建理论概念模型;进而,针对研究问题设计问卷进行测试、分析、修改与完善,形成正式问卷;之后,通过实地调研与网络发放两种调研方式收集到有效问卷373份,运用SPSS 22.0和AMOS 17.0统计软件对样本数据进行质量检验与分析,通过多元回归与结构方程模型两种分析方法,探讨与验证技术创新、驱动主体因素与,企业价值链升级三者间的关系;最后根据实证检验结果提出传统制造业企业价值链升级的政策措施建议。研究结果表明:(1)技术创新对企业价值链升级具有显著的促进作用;(2)自主创新、集成创新、模仿创新在企业的流程升级、产品升级、功能升级方面均具有显著的促进作用;(3)驱动主体因素对技术创新和企业价值链升级之间的关系具有调节作用。16个研究假设被证实。研究结果有助于为传统制造业企业的价值链升级提供理论支持。]]>
+                </Abstract>
+<Abstract  Lang="en">
+                 <![CDATA[Entity economy is the basic of economic development of China.Furthermore,the development of traditional manufacturing industries is the foundation of entity economy.The power source of promote economic development is remedy the shortcomings of traditional manufacturing industries.With the development of traditional manufacturing industries in recent decades,they are deeply participate in Global Value Chains(GVCs).Whereas,there are many deficiencies in product value added and value adcded capacicy,which is leading to the enterprises are locked in the middle and low end of GVCs.Thereforc,how to improve the profit distribution of enterprises in the participation of GVCs,and how to realize the upgrading of Enterprise Value Chains(EVCs)has become the primary task of traditional manufacturing industries in the new phase of China's economic development.To sum up,this study is based on the current development status of traditional manufacturing enterprises,exploring in the relationship between technological innovation and upgrading of EVCs.Firstly,this study is based on existing literature,re viewing and summarizing the existing research results on technological innovalion,primary driver factors and value chains;Secondly,based on the perspective of Value Chain,this study analyzes the mechanism between technological innovation and upgrading of Centerprise value chain.Combined with the existing problems between technulogical innovation and upgrading of enterprise value chain,the hypothesis and thecoretical modeling was put forward;Next,questionnaire was designed in accordance with the research questions and formed the final questionnaire.Then,373 valid samples were collected by field survey and internet questionnaire distribution.There are two kinds of statistical analysis sollware,SPSS 22.0 and AMOS 17.0 were used to test and analyzed the quality of the samples data,and adopted two analysis methods:multivariate regression and structural equation model,to discuss and verify the relationship among technological innovation,primary driver factors and upgrading of enterprise value chains.In the end,this study puts forward some policy suggestions for the upgrading of traditional manufacturing enterprise value chains,which is based on the results of empirical testThe empirical results show that:(1)technological innovation has a positive effect on promoting the upgrading of enterprise value chain.(2)independent innovation and imitative innovation both have a positive effect on the process upgrading,product upgrading and function upgrading.(3)primary driver factors have a moderating effect on the relationship between technological innovation and upgrading of enterprise value chain.16 hypothesis were confirmed.These research results are helpful to provide theoretical support for upgrading of traditional manufacturing enterprise value chains.]]>
+                </Abstract>
+
+            </Abstracts>
+<Publisher>Database Provider</Publisher>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle Lang="zh-CHS">
+          <![CDATA[STP marketing strategies of new energy vehicles in China]]>
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[Weiqun Han;;Jun Fu;;Guofang Zhang;;Jinsheng Xiao]]></FullName>
+<Organization><![CDATA[]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[World Automation Congress (WAC), 2012]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[The study of new energy vehicles is only one direction for the strategic development of vehicles. Marketing activities are indispensible and urgent in realizing industrialization and marketization of new energy vehicles. STP(Segmentation, Targeting, positioning) marketing strategies refer to important marketing theories for new energy vehicles entering the market. This paper will offer accurate location to the new energy vehicles production through market segmentation and choosing target market. Specialized marketing strategies will also be made to develop marketing publicizing activities, improving the market cognition and public acceptance and utilization of new energy vehicles.]]>
+          </Abstract>
+          </Abstracts>
+</Bibliography>
+<Bibliography>
+Reference Type
+<PrimaryTitle>
+             <PrimaryTitle  Lang="zh-CHS"><![CDATA[JS企业产品组合策略研究]]></PrimaryTitle>
+<PrimaryTitle  Lang="en"><![CDATA[]]></PrimaryTitle>
+
+            </PrimaryTitle>
+<Authors><Author><Info lang="zh-CHS"><FullName><![CDATA[于可举]]></FullName></Info></Author></Authors>
+<SecondaryResponsibility Responsibility="Director"><Name><![CDATA[梁春梅;戚汝庆]]></Name></SecondaryResponsibility>
+<Degree><![CDATA[硕士]]></Degree>
+<Medium><Media Lang="zh-CHS"><![CDATA[山东师范大学]]></Media></Medium>
+<Year><![CDATA[2018]]></Year>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[农业产业化龙头企业;内外部环境分析;产品组合策略]]></Keyword>
+<Keyword  Lang="en"><![CDATA[Agricultural industrialization leading enterprise;;internal and external environment analysis;;product combination strategy]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+             <Abstract  Lang="zh-CHS">
+                 <![CDATA[在乡村振兴和农业供给侧结构性改革的背景下,农业产业化龙头企业如何根据内外部环境制定正确的产品组合策略关乎着企业的发展和农民的增收。龙头企业作为最具有创新活力的新型农业经营主体,对于农业供给侧结构性改革和一二三产业融合起着至关重要的作用。并且龙头企业在促进农产品标准化生产、品牌建设与质量安全监管方面发挥积极作用。因此这也成为企业管理者的当务之急。本文基于内外部环境分析的方法。首先对龙头企业产品组合策略相关理论进行了梳理,分别归纳了农业产业化龙头企业相关研究成果、内外部环境分析理论、产品组合理论。接着重点分析了JS企业面临的内外部环境,主要从面临的宏观环境中的自然条件、经济社会环境、农业发展状况等角度进行分析;另外分析了企业面临的行业竞争环境;最后分析了企业的内部环境。针对企业面临的环境重点分析了企业的产品组合状况,并进一步的提出改进性的措施。作为一家典型的农业产业化龙头企业,JS企业具有龙头企业的一般特性,在东部地区具有一定程度的代表性。本文在分析JS企业产品组合策略的基础上,力求能对其他龙头企业具有一定的借鉴意义。]]>
+                </Abstract>
+<Abstract  Lang="en">
+                 <![CDATA[Under the background of rural revitalization and agricultural supply-side structural reform how leading enterprises of agricultural industrialization formulate correct product mix strategy according to internal and external environment is related to the development of enterprises and the increase of farmers' income.Leading enterprises is the most innovative and dynamic new agricultural operation entity,and it plays a vital role in agricultural supply-side structural reform and the integration of primary,secondary and tertiary industries.Moreover,leading enterprises play an active role in promoting standardized production,brand building and quality and safety supervision of agricultural products.Therefore,it has become an urgent matter for enterprise managers.This paper is based on the method of internal and external environment analysis.First,the related theories of product combination strategy of leading enterprises are sorted out,and the related research achievements,internal and external environment analysis theory and product mix theory of agricultural industrialization leading enterprises are summarized respectively.Then,it focuses on the analysis of the internal and external environment faced by JS enterprises,mainly from the perspective of natural environment,economic and social environment,and agricultural development in the macro environment.Besides,it analyzes the industry environment faced by enterprises,and finally analyzes the internal environment of enterprises.In view of the environmental focus of the enterprise,the situation of the product combination of the enterprise is analyzed,and the improvement measures are further put forward.As a typical agricultural industrialization leading enterprise,JS enterprises have the general characteristics of the leading enterprises,and have a certain degree of representation in the eastern region.Based on the analysis of the product portfolio strategy of JS enterprises,this paper tries to have some reference for other leading enterprises.]]>
+                </Abstract>
+
+            </Abstracts>
+<Publisher>Database Provider</Publisher>
+</Bibliography>
+<Bibliography>
+Reference Type
+<PrimaryTitle>
+             <PrimaryTitle  Lang="zh-CHS"><![CDATA[基于波士顿矩阵的招商银行A分行产品体系评价研究]]></PrimaryTitle>
+<PrimaryTitle  Lang="en"><![CDATA[The Research on the Boston Matrix Product System Evaluation of the China Merchants Bank Branch in A]]></PrimaryTitle>
+
+            </PrimaryTitle>
+<Authors><Author><Info lang="zh-CHS"><FullName><![CDATA[熊欣]]></FullName></Info></Author></Authors>
+<SecondaryResponsibility Responsibility="Director"><Name><![CDATA[张学陶;李海林]]></Name></SecondaryResponsibility>
+<Degree><![CDATA[硕士]]></Degree>
+<Medium><Media Lang="zh-CHS"><![CDATA[湖南大学]]></Media></Medium>
+<Year><![CDATA[2018]]></Year>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[招商银行A分行;产品体系;产品创新;波士顿矩阵]]></Keyword>
+<Keyword  Lang="en"><![CDATA[CMB branch in A;;Product system;;Product innovation;;Boston Matrix]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+             <Abstract  Lang="zh-CHS">
+                 <![CDATA[国内金融市场竞争日益激烈,各类银行产品推陈出新、创新程度不断加深。随着我国金融监管体制改革的深化,统一性、协同化监管趋势增强,混业经营将成为银行业转型发展的重要途径。互联网金融和利率市场化时代到来,金融产品在满足多样化需求方面面临严峻挑战。产品体系完备性不足、同质化严重等弊端,是制约商业银行发展的关键因素。经营模式及创新能力与商业银行管理、盈利层面的发展密切相关。丰富和完善银行产品体系,强化产品组合、层次及差异化品牌管理,将成为银行发展的必由之路。本文选取主营业务特色突出、产品利润贡献增长稳定的招商银行A分行作为研究对象,运用产品组合理论、层次理论、创新理论及波士顿矩阵模型,通过对其产品层次和结构的实证分析,得出该行产品体系的现状与缺陷。在此基础上,运用横向比较与波士顿矩阵分析法来揭示问题和寻求解决方案。第一部分简述银行产品及产品体系的概念、特征,全面介绍产品组合理论、产品层次理论及产品创新理论,并对传统波士顿矩阵评价体系进行适应性改进。第二部分结合上述理论,研究招商银行A分行产品的宽度、深度、关联度,通过对核心产品、基础产品、期望产品、扩大产品、潜在产品的界定,探讨其产品体系的现状与不足。第三部分依据改进后的波士顿矩阵,对产品收入结构、市场占有状况进行定量分析,构建其波士顿矩阵图。明确各类产品的特征与调整方向,进而指明A分行产品结构存在的问题。最后,提出完善招商银行A分行产品体系的对策建议。本文认为现代商业银行的发展离不开创新的推动,而创新的关键在于产品。招商银行A分行需用“精耕细作”的专业化、集约化战略取代过去规模驱动“小而全”的发展思路,由产品创新推动制度、管理创新,深入贯彻“一体两翼”经营理念,既发挥零售优势,又突出公司、同业业务创新的重要性和迫切性。通过实现产品纵深发展、积极开展交叉营销、明晰产品层次、完善产品结构布局、全力实施品牌创新战略等措施确保产品开发、营销、维护等环节的有效衔接,进而提升产品创新与盈利实力。]]>
+                </Abstract>
+<Abstract  Lang="en">
+                 <![CDATA[Competition in the domestic financial market has become increasingly fierce,and all types of banking products have been introduced to new and innovative levels.With the deepening of the reform of China's financial supervision system,the trend of uniformity and coordinated supervision will increase,and mixed operations will become an important way for the transformation and development of the banking industry.With the advent of the era of Internet finance and interest rate liberalization,financial products are facing severe challenges in meeting diversified demands.The defects such as lack of completeness of product system and serious homogeneity are the key factors that restrict the development of the banking industry.Business models and innovation capabilities are closely related to the development of commercial banks' management and profitability.To enrich and improve the banking product system,strengthen product mix,level and differentiated brand management will become the only way for banks to develop.This article selects the China Merchants Bank A branch with prominent main business characteristics and stable growth in product profit contribution as the research object.It uses product portfolio theory,hierarchy theory,innovation theory,and the Boston Matrix Model to obtain an empirical analysis of its product hierarchy and structure.The current status and defects of the product system.On this basis,horizontal comparisons and Boston Matrix Analysis are used to reveal problems and seek solutions.The first part briefly introduces the concept and characteristics of the banking product and product system.It comprehensively introduces the product portfolio theory,product level theory and product innovation theory,and adapts the traditional Boston matrix evaluation system.The second part combines the above theories to study the breadth,depth,and relevance of China Merchants Bank A branch products.Through the definition of core products,basic products,expected products,expanded products,and potential products,the status quo and deficiencies of its product system are discussed.In the third part,based on the improved Boston matrix,a quantitative analysis of the product revenue structure and market occupancy is conducted to build its Boston matrix.Identify the characteristics and adjustment directions of various products,and then point out the problems in the product structure of A branch.Finally,the countermeasures and suggestions for improving the product system of China Merchants Bank A Branch are proposed.This paper argues that to promote the development of modern commercial Banks without innovation,and innovation is the key to the product.China merchants bank,A branch of applied intensive cultivationl characterization of the strategy to replace the past blindly pursuing conveniently small development ideas,driven by mechanism innovation,product innovation,management,carry out one body two wings the management idea,giving full play to the advantages of retail,and clear the importance and urgency of companies,trade business innovation.Through further development by implementing product,actively carry out cross-selling,clear product level,optimizing product structure layout,the full implementation of brand strategy innovation,etc.To ensure that the product development,marketing,maintenance of effective cohesion,and enhance product innovation strength and profitability.]]>
+                </Abstract>
+
+            </Abstracts>
+<Publisher>Database Provider</Publisher>
+</Bibliography>
+<Bibliography>
+Reference Type
+<PrimaryTitle>
+             <PrimaryTitle  Lang="zh-CHS"><![CDATA[基于需求导向的自主品牌车企产品规划方法研究]]></PrimaryTitle>
+<PrimaryTitle  Lang="en"><![CDATA[Research on Local Brand Auto Company Product Planning Method Guided by Demand]]></PrimaryTitle>
+
+            </PrimaryTitle>
+<Authors><Author><Info lang="zh-CHS"><FullName><![CDATA[周俊霖]]></FullName></Info></Author></Authors>
+<SecondaryResponsibility Responsibility="Director"><Name><![CDATA[成艾国;韦勇]]></Name></SecondaryResponsibility>
+<Degree><![CDATA[硕士]]></Degree>
+<Medium><Media Lang="zh-CHS"><![CDATA[湖南大学]]></Media></Medium>
+<Year><![CDATA[2018]]></Year>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[产品规划;市场分析;用户需求;产品竞争力]]></Keyword>
+<Keyword  Lang="en"><![CDATA[Product Planning;;Market Analysis;;Customer Requirement;;Product Competitiveness]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+             <Abstract  Lang="zh-CHS">
+                 <![CDATA[中国汽车产业近年快速发展,市场竞争随之加剧。自主品牌由于起步较晚,研发/生产技术、制造设备及质量控制都较为薄弱,在与合资品牌的竞争中处于弱势。很多自主车企都下意识的强化技术/研发能力,但往往对新产品规划重视不足,仅依靠观察短期的市场行情或单凭企业高层的意志等做出方向性决定;或以技术和工程为导向,缺少系统的产品规划方法,对市场形势和用户需求缺少足够的数据分析等等,最终导致新产品纵使技术水平不差,但市场定位不准,用户接受度不高。本文以自主品牌汽车产品规划为论题,围绕如何找准目标市场和用户,如何进行契合市场的产品定义,如何增强产品竞争力展开讨论。首先,分析中国汽车行业竞争特点及自主品牌面对的威胁和机会,引入顾客需求相关理论、产品生命周期/进化理论等产品规划关键理论,明确了分析研究的时代背景,同时奠定了后续研究的理论依据。然后,研究和建立汽车产品规划系统方法。以研究市场和用户需求为核心,以市场调研主要手段,通过对历史数据和调研数据的深加工,判断市场发展趋势和用户需求变化趋势,进而找到新产品的目标市场和用户以及明确产品定位,并以用户需求为导向对产品性能、功能和配置等进行设定,借助预测模型判定新产品销售规模,采用不同的定价方法设定新产品价格,最后通过财务模型平衡各项要素,最终帮助企业实现盈利目标。最后,列举作者实际工作中一款MPV新品的产品规划案例,运用产品规划系统方法分别进行了早期市场调研、MPV行业市场分析及用户需求分析,找到了MPV新品的目标市场和用户,明确了产品定位、产品型谱和核心竞争力,并通过产品实际市场表现检验了相关方法的可行性和有效性。]]>
+                </Abstract>
+<Abstract  Lang="en">
+                 <![CDATA[Chinese automobile industry had rapidly development in recent years along with fierce competition.Limited by management,technology,equipment,quality,local brands generally has weakness in competition with JV brands.Most local brands focus on independence R&D capacity,while despise product planning.They just make product planning by market condition in a period of time or leadership intention,technology and engineering,which lack analysis of market and customer.The result is incorrect product position and lower user acceptance,although it has enough technical content.This dissertation is focus on local brand product planning as k ey research contents.It introduce method that how to catch target market and customer,how to defining the product,and how to enhance product competitiveness.Firstly,to research China's auto industry competitive characteristics and threats and opportunities of local brand,introduce product planning system viewpoint and method of customer requirement and value.To recognize the background of the analysis and research,and laid a theoretical basis for subsequent research.Secondly,to structure product planning system methodology,which makes market and customer analysis as core.It assesses the trends of marker development and customer requirement by analysis of historical and research data to confirm target market and customer.It defines product performance,function,c onfiguration by customer requirement,and forecast price and volume.At last,to build BC and make balance of every factor to reach profit target.Finally,to listed the practical work of a MPV new products product planning that make market/customer reach and analysis to fine target market,customer,and define product,portfolio and competitiveness.Through the actual market performance test,the method is feasibility and effective.]]>
+                </Abstract>
+
+            </Abstracts>
+<Publisher>Database Provider</Publisher>
+</Bibliography>
+<Bibliography>
+Reference Type
+<PrimaryTitle>
+             <PrimaryTitle  Lang="zh-CHS"><![CDATA[CSN公司传感器市场营销策略研究]]></PrimaryTitle>
+<PrimaryTitle  Lang="en"><![CDATA[Company CSN Sensor Marketing Strategy Study]]></PrimaryTitle>
+
+            </PrimaryTitle>
+<Authors><Author><Info lang="zh-CHS"><FullName><![CDATA[胡洋]]></FullName></Info></Author></Authors>
+<SecondaryResponsibility Responsibility="Director"><Name><![CDATA[侯丽敏]]></Name></SecondaryResponsibility>
+<Degree><![CDATA[硕士]]></Degree>
+<Medium><Media Lang="zh-CHS"><![CDATA[华东理工大学]]></Media></Medium>
+<Year><![CDATA[2012]]></Year>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[传感器;乘用车;ABS/ESC;产品生命周期;营销策略]]></Keyword>
+<Keyword  Lang="en"><![CDATA[sensor;; passenger vehicle;; ABS/ESC;; product life cycle;; marketing strategy]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+             <Abstract  Lang="zh-CHS">
+                 <![CDATA[企业要在中国市场上获得进一步的发展,必须根据企业自身情况以及产品特点,分析研究好中国市场的实际情况和特点,制定出适应中国市场状况、适应企业及其产品自身特点的市场营销策略。
+	本论文分析了中国乘用车市场以及电子刹车系统(ABS/ESC)的市场情况,以及传感器的市场竞争状况。利用了PEST、波特五力、SWOT等工具分析了CSN公司的外部营销环境及自身的优势、劣势,面临的机会和威胁等特点。本论文根据市场营销理论中产品生命周期理论研究分析了CSN公司不同传感器的生命阶段及其状况,并运用营销组合工具4Ps提出对应不同产品生命周期的传感器的市场营销策略。
+	通过研究能更全面地了解乘用车传感器的目标市场,掌握CSN公司传感器不同产品的特点,制定出正确的适合中国市场的营销策略,并对实施和支撑这一营销策略从企业文化、营销组织架构等方面提出了建议和思路。
+	本文对于国内汽车行业企业,特别是与CSN公司有类似背景的外商独资汽车零部件企业具有很好的借鉴意义。]]>
+                </Abstract>
+<Abstract  Lang="en">
+                 <![CDATA[For further development in Chinese market, enterprise needs to investigate and analyze actual situation and specifics of Chinese passenger vehicle market. According to company's condition and product characteristics, foreign companies need to establish suitable marketing strategies.
+	This thesis analysis Chinese passenger vehicle market and electronical brake systems as ABS (Anti-lock Brake System) & ESC (Electronic Stable Control) market, sensor's marketing competition, utilize tools as PEST, Porter 5-Forces, SWOT to analyze external marketing environment, dealing with itself characteristics as strength, weakness, confronting opportunities and threats etc., Base on the theory Product Life Cycle, this thesis research and analyze characteristics and situation of company CSN's sensor products, utilize marketing strategy tool 4Ps to figure out separately marketing strategy according to sensors'perspective product life cycle.
+	Through this research we realize comprehensively the target market:sensors of passenger vehicle, understand sensors characteristics of CSN, then to figure out correct and proper Chinese marketing strategy. This thesis also proposes indications or ideas in perspectives as company culture optimization and marketing organization reform.
+	This thesis would be a good reference for enterprises in Chinese automotive market especially for foreign company who has similar background as CSN.]]>
+                </Abstract>
+
+            </Abstracts>
+<Publisher>Database Provider</Publisher>
+</Bibliography>
+<Bibliography>
+Reference Type
+<PrimaryTitle>
+             <PrimaryTitle  Lang="zh-CHS"><![CDATA[科技型企业市场营销策略与管理研究]]></PrimaryTitle>
+<PrimaryTitle  Lang="en"><![CDATA[]]></PrimaryTitle>
+
+            </PrimaryTitle>
+<Authors><Author><Info lang="zh-CHS"><FullName><![CDATA[袁向东]]></FullName></Info></Author></Authors>
+<SecondaryResponsibility Responsibility="Director"><Name><![CDATA[王兴元]]></Name></SecondaryResponsibility>
+<Degree><![CDATA[硕士]]></Degree>
+<Medium><Media Lang="zh-CHS"><![CDATA[山东大学]]></Media></Medium>
+<Year><![CDATA[2006]]></Year>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[科技型企业;营销策略;技术营销;营销理念创新]]></Keyword>
+<Keyword  Lang="en"><![CDATA[high & new-tech enterprise; marketing strategy; technical marketing; innovation of marketing theories]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+             <Abstract  Lang="zh-CHS">
+                 <![CDATA[随着知识经济的到来，科技型企业在国民经济中的战略地位日益显著，对提供较先进的产品和服务、推动技术进步、扩大就业和提高国家经济竞争力做出了重要贡献。但是，他们在依靠先进技术和高科技产品打拼天下获得巨大成功的同时，往往过分地看重技术优势，而忽略对市场营销战策略和管理的研究和运用，导致市场营销近视，从而对经营造成被动甚至失败。因此，运用现代营销理论，研究和制定科技型企业特有的市场营销战略和策略，对科技型企业的市场营销问题提供必要的理论依据和支持，对促进科技型企业持续、健康和快速发展具有一定的现实意义和推广应用价值。
+    本文研究了科技型企业的企业特性、产品特点、市场需求特点和市场营销特点，并以技术接受生命周期理论和科技型企业的目标市场战略为依据，研究了科技型企业的市场营销策略制定、执行和管理问题。最后，为转制科研院所的科技型企业设计了市场营销策略，并对实施效果进行了分析和评价。得出了如下结论：科技型企业在制定市场营销战略和市场营销工作中，要注意和避免市场营销近视问题。科技型企业市场营销策略制定的战略依据是目标市场和市场定位战略，要通过“保龄球”模式进行市场细分，征服关键顾客、各个击破，扩大市场。在制定营销策略时，要根据技术接受生命周期理论、并结合产品特性和产业市场的特点来制定。以4P营销组合理论为基础，重点研究了科技型企业的产品策略、价格策略、分销策略和促销策略，并结合技术支持和服务营销策略、价值链整合营销策略、社会责任营销策略的运用，提出了科技型企业市场营销策略的总体框架。科技型企业高技术产品市场营销的关键是跨越早期市场向大众市场之间过渡的“鸿沟”，解决问题的关键是让目标顾客更快、更多的了解高新技术产品的核心利益、产品功能以及使用后能够给顾客带来的利益。科技型企业在营销管理中，要确立技术营销、团队营销、共生关系营销的营销理念。针对科技型企业产品品种多、目标市场差异大的特点，其营销组织结构宜采用产品经理制的营销模式。科技型企业营销队伍建设要注重复合型营销人才的培养，在营销管理中要加强风险控制。]]>
+                </Abstract>
+<Abstract  Lang="en">
+                 <![CDATA[With the coming of knowledge-based economy, high & new-tech enterprises play an increasingly strategic role in national economy, and also make great contribute to providing advanced products and services, promoting technical progress, enlarging employment and developing the national economic competitive power. But while they make a success upon advanced technology and hi-tech products, they usually put too much emphasis on technology advantages, accordingly neglect the research and applications of marketing strategy and management, and then caused the Marketing Myopia, resulting in passiveness even defeat to the management. So how to exercise modern marketing theories, research and constitute marketing strategy and policy of high & new-tech enterprises, and provide necessary theory base and supporting to the marketing problems of high & new-tech enterprises, has some reality significance and generalize application value to promote continuance, healthy and rapidly development of high & new-tech enterprises.
+The enterprise characteristic, products properties, market demanding and marketing of the high & new-tech enterprises was researched in this article, and also the issues of constitution, administration and management of the marketing strategy was researched. Finally, the marketing strategy and also analyze and evaluate of the results was designed and a conclusion was drawn: high & new-tech enterprises should notice and avoid the Marketing Myopia while constitute marketing strategy and during the marketing. The strategy foundation for the marketing strategy constituting of high & new-tech enterprises is target marketing and marketing orientation strategy. The marketing subdivision should be according to style of Bowling, that means to conquer the key customers, then succeed one by one, resulted in the purpose of marketing expand. Constituting marketing strategy should base on Technology Adoption Life Cycle, and combine the property of products and industry market. Based on 4P marketing theory, the product strategy, price strategy, distribution strategy and promoting strategy of high & new-tech enterprises is researched emphatically , also with the combination of technology supporting, service marketing strategy, value chain marketing strategy and the application of social responsibility marketing strategy, the]]>
+                </Abstract>
+
+            </Abstracts>
+<Publisher>Database Provider</Publisher>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+             <Language>zh-CHS</Language>
+<PrimaryTitle Lang="zh-CHS">
+          {题名}
+          </PrimaryTitle> 
+<Authors> 
+            <Author>
+            <Info lang="zh-CHS">
+             <FullName><![CDATA[]]></FullName>
+<Organization><![CDATA[]]></Organization>
+
+            </Info>
+            </Author>
+            </Authors>
+<Medium><Media Lang="zh-CHS"><![CDATA[Focus on Catalysts]]></Media></Medium>
+<Year><![CDATA[2019]]></Year>
+<Volume><![CDATA[2019]]></Volume>
+<Issue><![CDATA[6]]></Issue>
+<Keywords>
+             <Keyword  Lang="zh-CHS"><![CDATA[]]></Keyword>
+<Keyword  Lang="en"><![CDATA[]]></Keyword>
+
+            </Keywords>
+<Abstracts>
+          <Abstract  Lang="zh-CHS">
+          <![CDATA[]]>
+          </Abstract>
+          </Abstracts>
+<PageScope><![CDATA[]]></PageScope>
+<Publisher><![CDATA[Elsevier Ltd]]></Publisher>
+<Code><![CDATA[1351-4180]]></Code>
+</Bibliography>
+</Bibliographies>
